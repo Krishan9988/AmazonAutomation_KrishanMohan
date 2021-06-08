@@ -1,0 +1,4289 @@
+{
+  "9c57926893f2ff66fb2813d53d6f82ee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "a31b31a4a3fd370",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/a31b31a4a3fd370",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620277616542,
+        "stop" : 1620277647802,
+        "duration" : 31260
+      }
+    }, {
+      "uid" : "200b12823458d8f2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/200b12823458d8f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620277616542,
+        "stop" : 1620277647802,
+        "duration" : 31260
+      }
+    }, {
+      "uid" : "161d51a30e59e56c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/161d51a30e59e56c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620277616542,
+        "stop" : 1620277647802,
+        "duration" : 31260
+      }
+    }, {
+      "uid" : "392a72355bcd1a13",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/392a72355bcd1a13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620277616542,
+        "stop" : 1620277647802,
+        "duration" : 31260
+      }
+    }, {
+      "uid" : "32c4f5e841a2d86c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/32c4f5e841a2d86c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620277616542,
+        "stop" : 1620277647802,
+        "duration" : 31260
+      }
+    }, {
+      "uid" : "b6ad3e5000bf87a9",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/b6ad3e5000bf87a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620277616542,
+        "stop" : 1620277647802,
+        "duration" : 31260
+      }
+    }, {
+      "uid" : "ae78ac8adfa85d50",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/ae78ac8adfa85d50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620277616542,
+        "stop" : 1620277647802,
+        "duration" : 31260
+      }
+    }, {
+      "uid" : "42cc5a2cb9d34575",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/42cc5a2cb9d34575",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620277616542,
+        "stop" : 1620277647802,
+        "duration" : 31260
+      }
+    } ]
+  },
+  "50de378d3233eaa5949ef0c5e5ecdda6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "5c8b3d70df0b92ec",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/5c8b3d70df0b92ec",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@id='priceblock_dealprice']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fa19a0f5d8882e014a4afdc2407cd867\n*** Element info: {Using=xpath, value=//span[@id='priceblock_dealprice']}",
+      "time" : {
+        "start" : 1620563925755,
+        "stop" : 1620563955085,
+        "duration" : 29330
+      }
+    }, {
+      "uid" : "ac45349e2d7037f6",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/ac45349e2d7037f6",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@id='priceblock_dealprice']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fa19a0f5d8882e014a4afdc2407cd867\n*** Element info: {Using=xpath, value=//span[@id='priceblock_dealprice']}",
+      "time" : {
+        "start" : 1620563925755,
+        "stop" : 1620563955085,
+        "duration" : 29330
+      }
+    }, {
+      "uid" : "b6ecbfeb0e353a06",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/b6ecbfeb0e353a06",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@id='priceblock_dealprice']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fa19a0f5d8882e014a4afdc2407cd867\n*** Element info: {Using=xpath, value=//span[@id='priceblock_dealprice']}",
+      "time" : {
+        "start" : 1620563925755,
+        "stop" : 1620563955085,
+        "duration" : 29330
+      }
+    }, {
+      "uid" : "424b12c49feb6e60",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/424b12c49feb6e60",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@id='priceblock_dealprice']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fa19a0f5d8882e014a4afdc2407cd867\n*** Element info: {Using=xpath, value=//span[@id='priceblock_dealprice']}",
+      "time" : {
+        "start" : 1620563925755,
+        "stop" : 1620563955085,
+        "duration" : 29330
+      }
+    }, {
+      "uid" : "83d85f6954eacbf4",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/83d85f6954eacbf4",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@id='priceblock_dealprice']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fa19a0f5d8882e014a4afdc2407cd867\n*** Element info: {Using=xpath, value=//span[@id='priceblock_dealprice']}",
+      "time" : {
+        "start" : 1620563925755,
+        "stop" : 1620563955085,
+        "duration" : 29330
+      }
+    }, {
+      "uid" : "83e624c84ce4e468",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/83e624c84ce4e468",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@id='priceblock_dealprice']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fa19a0f5d8882e014a4afdc2407cd867\n*** Element info: {Using=xpath, value=//span[@id='priceblock_dealprice']}",
+      "time" : {
+        "start" : 1620563925755,
+        "stop" : 1620563955085,
+        "duration" : 29330
+      }
+    }, {
+      "uid" : "2fca45373d5edd5",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/2fca45373d5edd5",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@id='priceblock_dealprice']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fa19a0f5d8882e014a4afdc2407cd867\n*** Element info: {Using=xpath, value=//span[@id='priceblock_dealprice']}",
+      "time" : {
+        "start" : 1620563925755,
+        "stop" : 1620563955085,
+        "duration" : 29330
+      }
+    }, {
+      "uid" : "df9a01229544eab6",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/df9a01229544eab6",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@id='priceblock_dealprice']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fa19a0f5d8882e014a4afdc2407cd867\n*** Element info: {Using=xpath, value=//span[@id='priceblock_dealprice']}",
+      "time" : {
+        "start" : 1620563925755,
+        "stop" : 1620563955085,
+        "duration" : 29330
+      }
+    } ]
+  },
+  "1e920960aa686c3b1fe7273a56260e98" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "3363b838ae52ac5e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/3363b838ae52ac5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706770538,
+        "stop" : 1620706770840,
+        "duration" : 302
+      }
+    }, {
+      "uid" : "7d0e79e29b4b08e0",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/7d0e79e29b4b08e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706770538,
+        "stop" : 1620706770840,
+        "duration" : 302
+      }
+    }, {
+      "uid" : "fa5406c92a9beaae",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/fa5406c92a9beaae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706770538,
+        "stop" : 1620706770840,
+        "duration" : 302
+      }
+    }, {
+      "uid" : "d92ce01cf32196c0",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/d92ce01cf32196c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706770538,
+        "stop" : 1620706770840,
+        "duration" : 302
+      }
+    }, {
+      "uid" : "32d236bd90f76279",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/32d236bd90f76279",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706770538,
+        "stop" : 1620706770840,
+        "duration" : 302
+      }
+    }, {
+      "uid" : "686c617baf948b14",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/686c617baf948b14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706770538,
+        "stop" : 1620706770840,
+        "duration" : 302
+      }
+    }, {
+      "uid" : "9c1ad218bea04466",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/9c1ad218bea04466",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706770538,
+        "stop" : 1620706770840,
+        "duration" : 302
+      }
+    }, {
+      "uid" : "b165d679bd63db91",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/b165d679bd63db91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706770538,
+        "stop" : 1620706770840,
+        "duration" : 302
+      }
+    } ]
+  },
+  "fb9919acab65e865c15a41c087ffaab6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "453a0f735c6abae5",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/453a0f735c6abae5",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027955,
+        "stop" : 1620385027956,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "46c0c995eb637bc7",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/46c0c995eb637bc7",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027955,
+        "stop" : 1620385027956,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "69ad91a0b111175e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/69ad91a0b111175e",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027955,
+        "stop" : 1620385027956,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ba4f28e5ae2da1be",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/ba4f28e5ae2da1be",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027955,
+        "stop" : 1620385027956,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f01b7c84827fb433",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/f01b7c84827fb433",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027955,
+        "stop" : 1620385027956,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "425140e2edef2f47",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/425140e2edef2f47",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027955,
+        "stop" : 1620385027956,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4cdeaeae2d2267c6",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/4cdeaeae2d2267c6",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027955,
+        "stop" : 1620385027956,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fcdb1c01485287d2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/fcdb1c01485287d2",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027955,
+        "stop" : 1620385027956,
+        "duration" : 1
+      }
+    } ]
+  },
+  "765bce474c24ce5f99e7f51422e9aeaf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "986f566c91ce9fce",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/986f566c91ce9fce",
+      "status" : "broken",
+      "statusDetails" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:25772\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1620041275090,
+        "stop" : 1620041275095,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "4b37313f80fd469f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/4b37313f80fd469f",
+      "status" : "broken",
+      "statusDetails" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:25772\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1620041275090,
+        "stop" : 1620041275095,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "9d854933416a1342",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/9d854933416a1342",
+      "status" : "broken",
+      "statusDetails" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:25772\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1620041275090,
+        "stop" : 1620041275095,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "1c56d048522abab9",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/1c56d048522abab9",
+      "status" : "broken",
+      "statusDetails" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:25772\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1620041275090,
+        "stop" : 1620041275095,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "c4cc1e3d953a384a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/c4cc1e3d953a384a",
+      "status" : "broken",
+      "statusDetails" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:25772\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1620041275090,
+        "stop" : 1620041275095,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "f257cb10525ef272",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/f257cb10525ef272",
+      "status" : "broken",
+      "statusDetails" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:25772\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1620041275090,
+        "stop" : 1620041275095,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "efe4f769ec4434aa",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/efe4f769ec4434aa",
+      "status" : "broken",
+      "statusDetails" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:25772\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1620041275090,
+        "stop" : 1620041275095,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "87f8f77b8aa75eb9",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/87f8f77b8aa75eb9",
+      "status" : "broken",
+      "statusDetails" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:25772\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1620041275090,
+        "stop" : 1620041275095,
+        "duration" : 5
+      }
+    } ]
+  },
+  "67ed5abeb2e551f2c2aaf88b9666b296" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "4e1df2d9763b26e5",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/4e1df2d9763b26e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199538,
+        "stop" : 1619672217141,
+        "duration" : 17603
+      }
+    }, {
+      "uid" : "3f2143749348ffa3",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/3f2143749348ffa3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199538,
+        "stop" : 1619672217141,
+        "duration" : 17603
+      }
+    }, {
+      "uid" : "2b684b1562045f17",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/2b684b1562045f17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199538,
+        "stop" : 1619672217141,
+        "duration" : 17603
+      }
+    }, {
+      "uid" : "2dc128299ecdbab3",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/2dc128299ecdbab3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199538,
+        "stop" : 1619672217141,
+        "duration" : 17603
+      }
+    }, {
+      "uid" : "9540c4e4943b4aae",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/9540c4e4943b4aae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199538,
+        "stop" : 1619672217141,
+        "duration" : 17603
+      }
+    }, {
+      "uid" : "93c6fefe3e13e974",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/93c6fefe3e13e974",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199538,
+        "stop" : 1619672217141,
+        "duration" : 17603
+      }
+    }, {
+      "uid" : "e441f7b594da69a6",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/e441f7b594da69a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199538,
+        "stop" : 1619672217141,
+        "duration" : 17603
+      }
+    }, {
+      "uid" : "eeaec9ed8fee1f66",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/eeaec9ed8fee1f66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199538,
+        "stop" : 1619672217141,
+        "duration" : 17603
+      }
+    } ]
+  },
+  "a7ae79394b88a01ecb8d0de8c2d1248c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "f25bea7a87775980",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/f25bea7a87775980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217595954,
+        "stop" : 1620217612749,
+        "duration" : 16795
+      }
+    }, {
+      "uid" : "46bb3fd92412791d",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/46bb3fd92412791d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217595954,
+        "stop" : 1620217612749,
+        "duration" : 16795
+      }
+    }, {
+      "uid" : "baf1247bad9be169",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/baf1247bad9be169",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217595954,
+        "stop" : 1620217612749,
+        "duration" : 16795
+      }
+    }, {
+      "uid" : "be8865006888d38a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/be8865006888d38a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217595954,
+        "stop" : 1620217612749,
+        "duration" : 16795
+      }
+    }, {
+      "uid" : "93109dd8685cf795",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/93109dd8685cf795",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217595954,
+        "stop" : 1620217612749,
+        "duration" : 16795
+      }
+    }, {
+      "uid" : "7995dc03dfb607b4",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/7995dc03dfb607b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217595954,
+        "stop" : 1620217612749,
+        "duration" : 16795
+      }
+    }, {
+      "uid" : "5c0b6b7649cc667d",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/5c0b6b7649cc667d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217595954,
+        "stop" : 1620217612749,
+        "duration" : 16795
+      }
+    }, {
+      "uid" : "63622ff4d1f3513a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/63622ff4d1f3513a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217595954,
+        "stop" : 1620217612749,
+        "duration" : 16795
+      }
+    } ]
+  },
+  "865a0fffceee2b449ce77cd78387b880" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "274f3cb0304a35ec",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/274f3cb0304a35ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620041591141,
+        "stop" : 1620041592526,
+        "duration" : 1385
+      }
+    }, {
+      "uid" : "3303eefe611ab66b",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/3303eefe611ab66b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620041591141,
+        "stop" : 1620041592526,
+        "duration" : 1385
+      }
+    }, {
+      "uid" : "ca7a8cc687e13269",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/ca7a8cc687e13269",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620041591141,
+        "stop" : 1620041592526,
+        "duration" : 1385
+      }
+    }, {
+      "uid" : "df58f043c271fa6e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/df58f043c271fa6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620041591141,
+        "stop" : 1620041592526,
+        "duration" : 1385
+      }
+    }, {
+      "uid" : "cb9f82d85370f587",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/cb9f82d85370f587",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620041591141,
+        "stop" : 1620041592526,
+        "duration" : 1385
+      }
+    }, {
+      "uid" : "7dfdbe28dddaac53",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/7dfdbe28dddaac53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620041591141,
+        "stop" : 1620041592526,
+        "duration" : 1385
+      }
+    }, {
+      "uid" : "cc5899849324d5bb",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/cc5899849324d5bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620041591141,
+        "stop" : 1620041592526,
+        "duration" : 1385
+      }
+    }, {
+      "uid" : "228823539a8f3052",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/228823539a8f3052",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620041591141,
+        "stop" : 1620041592526,
+        "duration" : 1385
+      }
+    } ]
+  },
+  "35f953a307110cdfaac1b77b9f001b62" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "f812c8315933f84f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/f812c8315933f84f",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619582270820,
+        "stop" : 1619582270825,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "11d70f705598031f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/11d70f705598031f",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619582270820,
+        "stop" : 1619582270825,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "42c5549635565fc7",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/42c5549635565fc7",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619582270820,
+        "stop" : 1619582270825,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "d86203aa71e40afe",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/d86203aa71e40afe",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619582270820,
+        "stop" : 1619582270825,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "673a4007b120517f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/673a4007b120517f",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619582270820,
+        "stop" : 1619582270825,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "2acd222b6326c3c0",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/2acd222b6326c3c0",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619582270820,
+        "stop" : 1619582270825,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "c83319b35a5fc82",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/c83319b35a5fc82",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619582270820,
+        "stop" : 1619582270825,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "ff1f1f050a3ea254",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/ff1f1f050a3ea254",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619582270820,
+        "stop" : 1619582270825,
+        "duration" : 5
+      }
+    } ]
+  },
+  "291af74fbe81f9c6d4f38360476bd3d1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "7c3c6a83794c3570",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/7c3c6a83794c3570",
+      "status" : "broken",
+      "statusDetails" : "No backends were found. Please make sure you have a backend module on your CLASSPATH.",
+      "time" : {
+        "start" : 1620385027697,
+        "stop" : 1620385027703,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "3f1a836cbd6a5b87",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/3f1a836cbd6a5b87",
+      "status" : "broken",
+      "statusDetails" : "No backends were found. Please make sure you have a backend module on your CLASSPATH.",
+      "time" : {
+        "start" : 1620385027697,
+        "stop" : 1620385027703,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "7bc83dde9d3fc4ca",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/7bc83dde9d3fc4ca",
+      "status" : "broken",
+      "statusDetails" : "No backends were found. Please make sure you have a backend module on your CLASSPATH.",
+      "time" : {
+        "start" : 1620385027697,
+        "stop" : 1620385027703,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "7bbf6a7f87908ae0",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/7bbf6a7f87908ae0",
+      "status" : "broken",
+      "statusDetails" : "No backends were found. Please make sure you have a backend module on your CLASSPATH.",
+      "time" : {
+        "start" : 1620385027697,
+        "stop" : 1620385027703,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "90e6350d296a91ad",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/90e6350d296a91ad",
+      "status" : "broken",
+      "statusDetails" : "No backends were found. Please make sure you have a backend module on your CLASSPATH.",
+      "time" : {
+        "start" : 1620385027697,
+        "stop" : 1620385027703,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "452ca399e19d5098",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/452ca399e19d5098",
+      "status" : "broken",
+      "statusDetails" : "No backends were found. Please make sure you have a backend module on your CLASSPATH.",
+      "time" : {
+        "start" : 1620385027697,
+        "stop" : 1620385027703,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "516c57202b29eacd",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/516c57202b29eacd",
+      "status" : "broken",
+      "statusDetails" : "No backends were found. Please make sure you have a backend module on your CLASSPATH.",
+      "time" : {
+        "start" : 1620385027697,
+        "stop" : 1620385027703,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "df84507c3ef4e235",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/df84507c3ef4e235",
+      "status" : "broken",
+      "statusDetails" : "No backends were found. Please make sure you have a backend module on your CLASSPATH.",
+      "time" : {
+        "start" : 1620385027697,
+        "stop" : 1620385027703,
+        "duration" : 6
+      }
+    } ]
+  },
+  "edebe0d09104f1140b3984e02cbbcf4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "28bfccec342f53e1",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/28bfccec342f53e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564026299,
+        "stop" : 1620564046453,
+        "duration" : 20154
+      }
+    }, {
+      "uid" : "1e272534f08456f9",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/1e272534f08456f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564026299,
+        "stop" : 1620564046453,
+        "duration" : 20154
+      }
+    }, {
+      "uid" : "700dbcde2e46177c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/700dbcde2e46177c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564026299,
+        "stop" : 1620564046453,
+        "duration" : 20154
+      }
+    }, {
+      "uid" : "fc0c876c456c5bd6",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/fc0c876c456c5bd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564026299,
+        "stop" : 1620564046453,
+        "duration" : 20154
+      }
+    }, {
+      "uid" : "73136a0ad7edf6da",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/73136a0ad7edf6da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564026299,
+        "stop" : 1620564046453,
+        "duration" : 20154
+      }
+    }, {
+      "uid" : "47a47bfb40827013",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/47a47bfb40827013",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564026299,
+        "stop" : 1620564046453,
+        "duration" : 20154
+      }
+    }, {
+      "uid" : "d70543fc428b9cfe",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/d70543fc428b9cfe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564026299,
+        "stop" : 1620564046453,
+        "duration" : 20154
+      }
+    }, {
+      "uid" : "ee2ec60cbe5b7647",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/ee2ec60cbe5b7647",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564026299,
+        "stop" : 1620564046453,
+        "duration" : 20154
+      }
+    } ]
+  },
+  "267677d81e9b8e32fb8f59b830893efc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "2f7c05e5eb83677c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/2f7c05e5eb83677c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706758680,
+        "stop" : 1620706760944,
+        "duration" : 2264
+      }
+    }, {
+      "uid" : "483a2abfb6ea6175",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/483a2abfb6ea6175",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706758680,
+        "stop" : 1620706760944,
+        "duration" : 2264
+      }
+    }, {
+      "uid" : "2009cccff4d41e4e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/2009cccff4d41e4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706758680,
+        "stop" : 1620706760944,
+        "duration" : 2264
+      }
+    }, {
+      "uid" : "fac0c2c613a31567",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/fac0c2c613a31567",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706758680,
+        "stop" : 1620706760944,
+        "duration" : 2264
+      }
+    }, {
+      "uid" : "55ee5caad3e5c93f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/55ee5caad3e5c93f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706758680,
+        "stop" : 1620706760944,
+        "duration" : 2264
+      }
+    }, {
+      "uid" : "6f193a68a62e26de",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/6f193a68a62e26de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706758680,
+        "stop" : 1620706760944,
+        "duration" : 2264
+      }
+    }, {
+      "uid" : "ed03298dfc62239d",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/ed03298dfc62239d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706758680,
+        "stop" : 1620706760944,
+        "duration" : 2264
+      }
+    }, {
+      "uid" : "3f9fdb4f1950cc42",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/3f9fdb4f1950cc42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706758680,
+        "stop" : 1620706760944,
+        "duration" : 2264
+      }
+    } ]
+  },
+  "5b96bec7571ab7aa3dd0b92280ce5846" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "857f8e987b7c016c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/857f8e987b7c016c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563965064,
+        "stop" : 1620563988474,
+        "duration" : 23410
+      }
+    }, {
+      "uid" : "6aa817c8aa748cee",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/6aa817c8aa748cee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563965064,
+        "stop" : 1620563988474,
+        "duration" : 23410
+      }
+    }, {
+      "uid" : "4e786cf5820360bd",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/4e786cf5820360bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563965064,
+        "stop" : 1620563988474,
+        "duration" : 23410
+      }
+    }, {
+      "uid" : "3b83029172779314",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/3b83029172779314",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563965064,
+        "stop" : 1620563988474,
+        "duration" : 23410
+      }
+    }, {
+      "uid" : "88ff1bec488c8e49",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/88ff1bec488c8e49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563965064,
+        "stop" : 1620563988474,
+        "duration" : 23410
+      }
+    }, {
+      "uid" : "d7ff289f7050efea",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/d7ff289f7050efea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563965064,
+        "stop" : 1620563988474,
+        "duration" : 23410
+      }
+    }, {
+      "uid" : "9e1b18ed9918d354",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/9e1b18ed9918d354",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563965064,
+        "stop" : 1620563988474,
+        "duration" : 23410
+      }
+    }, {
+      "uid" : "77e6dce13fce6788",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/77e6dce13fce6788",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563965064,
+        "stop" : 1620563988474,
+        "duration" : 23410
+      }
+    } ]
+  },
+  "aff73d420927c96255d3c614cee56109" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "8587abaac9c84790",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/8587abaac9c84790",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619441616088,
+        "stop" : 1619441616138,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "b3864cb15d2c2983",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/b3864cb15d2c2983",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619441616088,
+        "stop" : 1619441616138,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "a24b9c1980cff451",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/a24b9c1980cff451",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619441616088,
+        "stop" : 1619441616138,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "c69f470fb9e52635",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/c69f470fb9e52635",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619441616088,
+        "stop" : 1619441616138,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "305f23bf04f475a2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/305f23bf04f475a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619441616088,
+        "stop" : 1619441616138,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "5d14ce594c121e52",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/5d14ce594c121e52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619441616088,
+        "stop" : 1619441616138,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "ee9961e04bbead58",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/ee9961e04bbead58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619441616088,
+        "stop" : 1619441616138,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "a210f78ed7dbc9a7",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/a210f78ed7dbc9a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619441616088,
+        "stop" : 1619441616138,
+        "duration" : 50
+      }
+    } ]
+  },
+  "9ba81e48c527d60371ac034195383a10" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "bf2adfbb78ed7a24",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/bf2adfbb78ed7a24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563996246,
+        "stop" : 1620564018309,
+        "duration" : 22063
+      }
+    }, {
+      "uid" : "5bb1c9aeb3a2f8e6",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/5bb1c9aeb3a2f8e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563996246,
+        "stop" : 1620564018309,
+        "duration" : 22063
+      }
+    }, {
+      "uid" : "6f74b45d8a7a821c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/6f74b45d8a7a821c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563996246,
+        "stop" : 1620564018309,
+        "duration" : 22063
+      }
+    }, {
+      "uid" : "8aaafb66316621c7",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/8aaafb66316621c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563996246,
+        "stop" : 1620564018309,
+        "duration" : 22063
+      }
+    }, {
+      "uid" : "7295c9e761d18ffd",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/7295c9e761d18ffd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563996246,
+        "stop" : 1620564018309,
+        "duration" : 22063
+      }
+    }, {
+      "uid" : "d7927d7a1a6ad4ac",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/d7927d7a1a6ad4ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563996246,
+        "stop" : 1620564018309,
+        "duration" : 22063
+      }
+    }, {
+      "uid" : "a863a831baf558c5",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/a863a831baf558c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563996246,
+        "stop" : 1620564018309,
+        "duration" : 22063
+      }
+    }, {
+      "uid" : "88887c34076e8110",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/88887c34076e8110",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563996246,
+        "stop" : 1620564018309,
+        "duration" : 22063
+      }
+    } ]
+  },
+  "e8e9bd7894a1d83848bb2996b5e1d426" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "cfcc1442d428eb6f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/cfcc1442d428eb6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199006,
+        "stop" : 1619672199063,
+        "duration" : 57
+      }
+    }, {
+      "uid" : "a86d297d6315519d",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/a86d297d6315519d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199006,
+        "stop" : 1619672199063,
+        "duration" : 57
+      }
+    }, {
+      "uid" : "d9fcc06c3bf9f051",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/d9fcc06c3bf9f051",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199006,
+        "stop" : 1619672199063,
+        "duration" : 57
+      }
+    }, {
+      "uid" : "6734319c19f0bc32",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/6734319c19f0bc32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199006,
+        "stop" : 1619672199063,
+        "duration" : 57
+      }
+    }, {
+      "uid" : "42b689c2850ef026",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/42b689c2850ef026",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199006,
+        "stop" : 1619672199063,
+        "duration" : 57
+      }
+    }, {
+      "uid" : "d5cfe6c3f27fce9e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/d5cfe6c3f27fce9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199006,
+        "stop" : 1619672199063,
+        "duration" : 57
+      }
+    }, {
+      "uid" : "fef64f2bd88734d1",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/fef64f2bd88734d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199006,
+        "stop" : 1619672199063,
+        "duration" : 57
+      }
+    }, {
+      "uid" : "2029ba95bc632dce",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/2029ba95bc632dce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672199006,
+        "stop" : 1619672199063,
+        "duration" : 57
+      }
+    } ]
+  },
+  "715db3d1e1462f6bce4fffc6bfed5cc3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "3b8210078dac6875",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/3b8210078dac6875",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620475951331,
+        "stop" : 1620475951642,
+        "duration" : 311
+      }
+    }, {
+      "uid" : "365471a34b4968e5",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/365471a34b4968e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620475951331,
+        "stop" : 1620475951642,
+        "duration" : 311
+      }
+    }, {
+      "uid" : "a5261ee1f0de1052",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/a5261ee1f0de1052",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620475951331,
+        "stop" : 1620475951642,
+        "duration" : 311
+      }
+    }, {
+      "uid" : "bf700f06d5fac442",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/bf700f06d5fac442",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620475951331,
+        "stop" : 1620475951642,
+        "duration" : 311
+      }
+    }, {
+      "uid" : "b1b4f30d82498b69",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/b1b4f30d82498b69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620475951331,
+        "stop" : 1620475951642,
+        "duration" : 311
+      }
+    }, {
+      "uid" : "79f51b159ef74cba",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/79f51b159ef74cba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620475951331,
+        "stop" : 1620475951642,
+        "duration" : 311
+      }
+    }, {
+      "uid" : "2a08880f16e33327",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/2a08880f16e33327",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620475951331,
+        "stop" : 1620475951642,
+        "duration" : 311
+      }
+    }, {
+      "uid" : "bb472be26dc24a0",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/bb472be26dc24a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620475951331,
+        "stop" : 1620475951642,
+        "duration" : 311
+      }
+    } ]
+  },
+  "e5c744cd44bf255654842d145a98b6bc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "e0ad75720184ec0b",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/e0ad75720184ec0b",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620563537251,
+        "stop" : 1620563537253,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "befecefebade436c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/befecefebade436c",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620563537251,
+        "stop" : 1620563537253,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "2e658d40fd74a42",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/2e658d40fd74a42",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620563537251,
+        "stop" : 1620563537253,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a6276911294412a1",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/a6276911294412a1",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620563537251,
+        "stop" : 1620563537253,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "5f43bc4bc6d7ba69",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/5f43bc4bc6d7ba69",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620563537251,
+        "stop" : 1620563537253,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "83cce0006f73fe36",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/83cce0006f73fe36",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620563537251,
+        "stop" : 1620563537253,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1b20472d6fe4c83f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/1b20472d6fe4c83f",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620563537251,
+        "stop" : 1620563537253,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1e0eed2f242a703c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/1e0eed2f242a703c",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620563537251,
+        "stop" : 1620563537253,
+        "duration" : 2
+      }
+    } ]
+  },
+  "3676c00965735aecf0733baa3ef8a5a8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "a5ad430f83f2395c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/a5ad430f83f2395c",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619671548083,
+        "stop" : 1619671548087,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "e2b5dff6459d59da",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/e2b5dff6459d59da",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619671548083,
+        "stop" : 1619671548087,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "9b8ed035409e63c7",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/9b8ed035409e63c7",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619671548083,
+        "stop" : 1619671548087,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "a9fa27eb63d250c3",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/a9fa27eb63d250c3",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619671548083,
+        "stop" : 1619671548087,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "a0a7e1acaeb887",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/a0a7e1acaeb887",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619671548083,
+        "stop" : 1619671548087,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "f096ed36911d00be",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/f096ed36911d00be",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619671548083,
+        "stop" : 1619671548087,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "319da8a57b72bc1f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/319da8a57b72bc1f",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619671548083,
+        "stop" : 1619671548087,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "75f6c44681e7197e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/75f6c44681e7197e",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619671548083,
+        "stop" : 1619671548087,
+        "duration" : 4
+      }
+    } ]
+  },
+  "af4eb947f79d6d11833e155ce3d35b98" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "ddd6341de0a2e6b2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/ddd6341de0a2e6b2",
+      "status" : "failed",
+      "statusDetails" : "Try to login with invalid email/phonenumber expected [false] but found [true]",
+      "time" : {
+        "start" : 1620734114302,
+        "stop" : 1620734124497,
+        "duration" : 10195
+      }
+    }, {
+      "uid" : "b093685b47f43acf",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/b093685b47f43acf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620732783850,
+        "stop" : 1620732795364,
+        "duration" : 11514
+      }
+    }, {
+      "uid" : "de3f554fc39690",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/de3f554fc39690",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620712365661,
+        "stop" : 1620712378206,
+        "duration" : 12545
+      }
+    }, {
+      "uid" : "969be2fb50740495",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/969be2fb50740495",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620711906729,
+        "stop" : 1620711912889,
+        "duration" : 6160
+      }
+    }, {
+      "uid" : "57f4756b1f8f3a97",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/57f4756b1f8f3a97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620711540427,
+        "stop" : 1620711546695,
+        "duration" : 6268
+      }
+    }, {
+      "uid" : "c4b67652a0611ee1",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/c4b67652a0611ee1",
+      "status" : "failed",
+      "statusDetails" : "expected [false] but found [true]",
+      "time" : {
+        "start" : 1620711426754,
+        "stop" : 1620711435098,
+        "duration" : 8344
+      }
+    }, {
+      "uid" : "f2aece5777ad8f96",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/f2aece5777ad8f96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564097737,
+        "stop" : 1620564113837,
+        "duration" : 16100
+      }
+    }, {
+      "uid" : "362cecb8c19c1de2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/362cecb8c19c1de2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564097737,
+        "stop" : 1620564113837,
+        "duration" : 16100
+      }
+    } ]
+  },
+  "3cfbe395e0ac16600140bdd55165988f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "dbe9664e04592749",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/dbe9664e04592749",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620120200939,
+        "stop" : 1620120208898,
+        "duration" : 7959
+      }
+    }, {
+      "uid" : "b763a6c2f120919e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/b763a6c2f120919e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620120200939,
+        "stop" : 1620120208898,
+        "duration" : 7959
+      }
+    }, {
+      "uid" : "5cd8754fd4f3b859",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/5cd8754fd4f3b859",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620120200939,
+        "stop" : 1620120208898,
+        "duration" : 7959
+      }
+    }, {
+      "uid" : "6349bbc0a4ab6b78",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/6349bbc0a4ab6b78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620120200939,
+        "stop" : 1620120208898,
+        "duration" : 7959
+      }
+    }, {
+      "uid" : "6d37f533dd05b7aa",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/6d37f533dd05b7aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620120200939,
+        "stop" : 1620120208898,
+        "duration" : 7959
+      }
+    }, {
+      "uid" : "a2096b51137b824",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/a2096b51137b824",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620120200939,
+        "stop" : 1620120208898,
+        "duration" : 7959
+      }
+    }, {
+      "uid" : "9436b86aa91e22d5",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/9436b86aa91e22d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620120200939,
+        "stop" : 1620120208898,
+        "duration" : 7959
+      }
+    }, {
+      "uid" : "eeb5455cc5411703",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/eeb5455cc5411703",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620120200939,
+        "stop" : 1620120208898,
+        "duration" : 7959
+      }
+    } ]
+  },
+  "2e974f5dcd8ee4b1a0b430bd613552a" : {
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "d8fdfd7f0cbd8677",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/d8fdfd7f0cbd8677",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620711913158,
+        "stop" : 1620711913160,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a11f58a9eb33f06e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/a11f58a9eb33f06e",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620711913158,
+        "stop" : 1620711913160,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "95b7151a977eafe8",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/95b7151a977eafe8",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620711913158,
+        "stop" : 1620711913160,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "b498414f5bd28d83",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/b498414f5bd28d83",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620711913158,
+        "stop" : 1620711913160,
+        "duration" : 2
+      }
+    } ]
+  },
+  "2454e345b0756d72fd810384740d6717" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "2085451f86b13735",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/2085451f86b13735",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620214783090,
+        "stop" : 1620214798807,
+        "duration" : 15717
+      }
+    }, {
+      "uid" : "9b920a3c88954106",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/9b920a3c88954106",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620214783090,
+        "stop" : 1620214798807,
+        "duration" : 15717
+      }
+    }, {
+      "uid" : "99b0b1f7aed9f24b",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/99b0b1f7aed9f24b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620214783090,
+        "stop" : 1620214798807,
+        "duration" : 15717
+      }
+    }, {
+      "uid" : "51aa39b41ad0d143",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/51aa39b41ad0d143",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620214783090,
+        "stop" : 1620214798807,
+        "duration" : 15717
+      }
+    }, {
+      "uid" : "6118b9e3b2e80fb6",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/6118b9e3b2e80fb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620214783090,
+        "stop" : 1620214798807,
+        "duration" : 15717
+      }
+    }, {
+      "uid" : "89df8ad0449e52f1",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/89df8ad0449e52f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620214783090,
+        "stop" : 1620214798807,
+        "duration" : 15717
+      }
+    }, {
+      "uid" : "aad241e0e4f5518a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/aad241e0e4f5518a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620214783090,
+        "stop" : 1620214798807,
+        "duration" : 15717
+      }
+    }, {
+      "uid" : "2ee8422cbca75da7",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/2ee8422cbca75da7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620214783090,
+        "stop" : 1620214798807,
+        "duration" : 15717
+      }
+    } ]
+  },
+  "ac39cc543aa932c0499e4255a5ca052a" : {
+    "statistic" : {
+      "failed" : 8,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "34dc00798fb338e9",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/34dc00798fb338e9",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tChecking the both price are different expected [778.00] but found [389.00]",
+      "time" : {
+        "start" : 1620280638710,
+        "stop" : 1620280638712,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "402a72282e449983",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/402a72282e449983",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tChecking the both price are different expected [778.00] but found [389.00]",
+      "time" : {
+        "start" : 1620280638710,
+        "stop" : 1620280638712,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "795377167bc1cc93",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/795377167bc1cc93",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tChecking the both price are different expected [778.00] but found [389.00]",
+      "time" : {
+        "start" : 1620280638710,
+        "stop" : 1620280638712,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "fe568fc0e027279a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/fe568fc0e027279a",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tChecking the both price are different expected [778.00] but found [389.00]",
+      "time" : {
+        "start" : 1620280638710,
+        "stop" : 1620280638712,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "d372bebbbc448d85",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/d372bebbbc448d85",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tChecking the both price are different expected [778.00] but found [389.00]",
+      "time" : {
+        "start" : 1620280638710,
+        "stop" : 1620280638712,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "2d3a5859a1579008",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/2d3a5859a1579008",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tChecking the both price are different expected [778.00] but found [389.00]",
+      "time" : {
+        "start" : 1620280638710,
+        "stop" : 1620280638712,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ef67b4842b4b760a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/ef67b4842b4b760a",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tChecking the both price are different expected [778.00] but found [389.00]",
+      "time" : {
+        "start" : 1620280638710,
+        "stop" : 1620280638712,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "d4333e53714fad43",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/d4333e53714fad43",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tChecking the both price are different expected [778.00] but found [389.00]",
+      "time" : {
+        "start" : 1620280638710,
+        "stop" : 1620280638712,
+        "duration" : 2
+      }
+    } ]
+  },
+  "a49eb00aeed34188a44477e2449b7667" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "936e37ececc6a9",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/936e37ececc6a9",
+      "status" : "broken",
+      "statusDetails" : "unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c8eca8a2fdf2f267fc1b4f4ebd942c41",
+      "time" : {
+        "start" : 1620478992718,
+        "stop" : 1620478992723,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "1f505ed2f1d86290",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/1f505ed2f1d86290",
+      "status" : "broken",
+      "statusDetails" : "unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c8eca8a2fdf2f267fc1b4f4ebd942c41",
+      "time" : {
+        "start" : 1620478992718,
+        "stop" : 1620478992723,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "8c801e5ceb9c187e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/8c801e5ceb9c187e",
+      "status" : "broken",
+      "statusDetails" : "unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c8eca8a2fdf2f267fc1b4f4ebd942c41",
+      "time" : {
+        "start" : 1620478992718,
+        "stop" : 1620478992723,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "ce4f3fd0121c1bfc",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/ce4f3fd0121c1bfc",
+      "status" : "broken",
+      "statusDetails" : "unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c8eca8a2fdf2f267fc1b4f4ebd942c41",
+      "time" : {
+        "start" : 1620478992718,
+        "stop" : 1620478992723,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "3b4a7f95d1d4cd6a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/3b4a7f95d1d4cd6a",
+      "status" : "broken",
+      "statusDetails" : "unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c8eca8a2fdf2f267fc1b4f4ebd942c41",
+      "time" : {
+        "start" : 1620478992718,
+        "stop" : 1620478992723,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "8d07baf3e21f240a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/8d07baf3e21f240a",
+      "status" : "broken",
+      "statusDetails" : "unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c8eca8a2fdf2f267fc1b4f4ebd942c41",
+      "time" : {
+        "start" : 1620478992718,
+        "stop" : 1620478992723,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "aaad148c4c9c3af4",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/aaad148c4c9c3af4",
+      "status" : "broken",
+      "statusDetails" : "unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c8eca8a2fdf2f267fc1b4f4ebd942c41",
+      "time" : {
+        "start" : 1620478992718,
+        "stop" : 1620478992723,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "f81d60d801f346fb",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/f81d60d801f346fb",
+      "status" : "broken",
+      "statusDetails" : "unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c8eca8a2fdf2f267fc1b4f4ebd942c41",
+      "time" : {
+        "start" : 1620478992718,
+        "stop" : 1620478992723,
+        "duration" : 5
+      }
+    } ]
+  },
+  "d891516d9183cd8633a4aa841ffd1656" : {
+    "statistic" : {
+      "failed" : 8,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "1bb4a31d0a53e2d5",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/1bb4a31d0a53e2d5",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+      "time" : {
+        "start" : 1620207774041,
+        "stop" : 1620207774043,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "202bba7069585b39",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/202bba7069585b39",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+      "time" : {
+        "start" : 1620207774041,
+        "stop" : 1620207774043,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a5a183c0ad210f0b",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/a5a183c0ad210f0b",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+      "time" : {
+        "start" : 1620207774041,
+        "stop" : 1620207774043,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6e1dd737bcffe8f7",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/6e1dd737bcffe8f7",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+      "time" : {
+        "start" : 1620207774041,
+        "stop" : 1620207774043,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "d41427a5c17e23b1",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/d41427a5c17e23b1",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+      "time" : {
+        "start" : 1620207774041,
+        "stop" : 1620207774043,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "cfa93ea196e9584e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/cfa93ea196e9584e",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+      "time" : {
+        "start" : 1620207774041,
+        "stop" : 1620207774043,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1484280d44989992",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/1484280d44989992",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+      "time" : {
+        "start" : 1620207774041,
+        "stop" : 1620207774043,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "eb788a37d50ac992",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/eb788a37d50ac992",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+      "time" : {
+        "start" : 1620207774041,
+        "stop" : 1620207774043,
+        "duration" : 2
+      }
+    } ]
+  },
+  "3392d86b9c47294ae644a295d4059f56" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "4213c7863e151690",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/4213c7863e151690",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620280732020,
+        "stop" : 1620280746851,
+        "duration" : 14831
+      }
+    }, {
+      "uid" : "90bd23d3a65fd7a8",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/90bd23d3a65fd7a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620280732020,
+        "stop" : 1620280746851,
+        "duration" : 14831
+      }
+    }, {
+      "uid" : "a79ae8f270e9e016",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/a79ae8f270e9e016",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620280732020,
+        "stop" : 1620280746851,
+        "duration" : 14831
+      }
+    }, {
+      "uid" : "6b2cd6193f1839f0",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/6b2cd6193f1839f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620280732020,
+        "stop" : 1620280746851,
+        "duration" : 14831
+      }
+    }, {
+      "uid" : "4cd1627defdc0531",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/4cd1627defdc0531",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620280732020,
+        "stop" : 1620280746851,
+        "duration" : 14831
+      }
+    }, {
+      "uid" : "c358950072725772",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/c358950072725772",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620280732020,
+        "stop" : 1620280746851,
+        "duration" : 14831
+      }
+    }, {
+      "uid" : "2f1699ccf14ef4cc",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/2f1699ccf14ef4cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620280732020,
+        "stop" : 1620280746851,
+        "duration" : 14831
+      }
+    }, {
+      "uid" : "6811146469a9444a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/6811146469a9444a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620280732020,
+        "stop" : 1620280746851,
+        "duration" : 14831
+      }
+    } ]
+  },
+  "5de590403fbcaef42fcdceb16a2c803b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "c4e9690cbfdbfc2b",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/c4e9690cbfdbfc2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672226507,
+        "stop" : 1619672226986,
+        "duration" : 479
+      }
+    }, {
+      "uid" : "61799645460c310c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/61799645460c310c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672226507,
+        "stop" : 1619672226986,
+        "duration" : 479
+      }
+    }, {
+      "uid" : "49c75e286c726559",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/49c75e286c726559",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672226507,
+        "stop" : 1619672226986,
+        "duration" : 479
+      }
+    }, {
+      "uid" : "ca21fdf052ef0fb2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/ca21fdf052ef0fb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672226507,
+        "stop" : 1619672226986,
+        "duration" : 479
+      }
+    }, {
+      "uid" : "cb27de8a5d15a562",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/cb27de8a5d15a562",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672226507,
+        "stop" : 1619672226986,
+        "duration" : 479
+      }
+    }, {
+      "uid" : "ec9f761dcb0be303",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/ec9f761dcb0be303",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672226507,
+        "stop" : 1619672226986,
+        "duration" : 479
+      }
+    }, {
+      "uid" : "14c787181d06b651",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/14c787181d06b651",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672226507,
+        "stop" : 1619672226986,
+        "duration" : 479
+      }
+    }, {
+      "uid" : "f9a4e927ba732f72",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/f9a4e927ba732f72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672226507,
+        "stop" : 1619672226986,
+        "duration" : 479
+      }
+    } ]
+  },
+  "42d38cea437934daf8ee11aa4c3d23cb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "f47e8de4acc58d2c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/f47e8de4acc58d2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193132352,
+        "stop" : 1620193145837,
+        "duration" : 13485
+      }
+    }, {
+      "uid" : "11546af38e911611",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/11546af38e911611",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193132352,
+        "stop" : 1620193145837,
+        "duration" : 13485
+      }
+    }, {
+      "uid" : "ebe54ff2109fca5c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/ebe54ff2109fca5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193132352,
+        "stop" : 1620193145837,
+        "duration" : 13485
+      }
+    }, {
+      "uid" : "d74b2e81c5a6d6b2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/d74b2e81c5a6d6b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193132352,
+        "stop" : 1620193145837,
+        "duration" : 13485
+      }
+    }, {
+      "uid" : "db1849a8247b5035",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/db1849a8247b5035",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193132352,
+        "stop" : 1620193145837,
+        "duration" : 13485
+      }
+    }, {
+      "uid" : "660c660bb9d91317",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/660c660bb9d91317",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193132352,
+        "stop" : 1620193145837,
+        "duration" : 13485
+      }
+    }, {
+      "uid" : "c72d4fefdfb34f2a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/c72d4fefdfb34f2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193132352,
+        "stop" : 1620193145837,
+        "duration" : 13485
+      }
+    }, {
+      "uid" : "669b324a24a14148",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/669b324a24a14148",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193132352,
+        "stop" : 1620193145837,
+        "duration" : 13485
+      }
+    } ]
+  },
+  "93ee6d5c36b58a52be409b1f0f2b1287" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "e06b532401cd2e68",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/e06b532401cd2e68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217419263,
+        "stop" : 1620217433006,
+        "duration" : 13743
+      }
+    }, {
+      "uid" : "6751750cde9d5f5f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/6751750cde9d5f5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217419263,
+        "stop" : 1620217433006,
+        "duration" : 13743
+      }
+    }, {
+      "uid" : "d6ac527d606c3f09",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/d6ac527d606c3f09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217419263,
+        "stop" : 1620217433006,
+        "duration" : 13743
+      }
+    }, {
+      "uid" : "3ee28d13b9de4a5f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/3ee28d13b9de4a5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217419263,
+        "stop" : 1620217433006,
+        "duration" : 13743
+      }
+    }, {
+      "uid" : "4efc9da7ee1e2ed",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/4efc9da7ee1e2ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217419263,
+        "stop" : 1620217433006,
+        "duration" : 13743
+      }
+    }, {
+      "uid" : "46f1ccc5c63044fb",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/46f1ccc5c63044fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217419263,
+        "stop" : 1620217433006,
+        "duration" : 13743
+      }
+    }, {
+      "uid" : "afcc9884baac1fd4",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/afcc9884baac1fd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217419263,
+        "stop" : 1620217433006,
+        "duration" : 13743
+      }
+    }, {
+      "uid" : "e9e0586b97098d9a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/e9e0586b97098d9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217419263,
+        "stop" : 1620217433006,
+        "duration" : 13743
+      }
+    } ]
+  },
+  "d903fc1bb3e3e5200e212859466ef45f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "a25f2309b509cfc2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/a25f2309b509cfc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620208029063,
+        "stop" : 1620208038976,
+        "duration" : 9913
+      }
+    }, {
+      "uid" : "e873afb4eff53486",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/e873afb4eff53486",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620208029063,
+        "stop" : 1620208038976,
+        "duration" : 9913
+      }
+    }, {
+      "uid" : "773e45027617a3bc",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/773e45027617a3bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620208029063,
+        "stop" : 1620208038976,
+        "duration" : 9913
+      }
+    }, {
+      "uid" : "70eb9f55bfff0b7a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/70eb9f55bfff0b7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620208029063,
+        "stop" : 1620208038976,
+        "duration" : 9913
+      }
+    }, {
+      "uid" : "e65c1db5f8d7ba53",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/e65c1db5f8d7ba53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620208029063,
+        "stop" : 1620208038976,
+        "duration" : 9913
+      }
+    }, {
+      "uid" : "4629e34c05703c5c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/4629e34c05703c5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620208029063,
+        "stop" : 1620208038976,
+        "duration" : 9913
+      }
+    }, {
+      "uid" : "3cd4154196d00d84",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/3cd4154196d00d84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620208029063,
+        "stop" : 1620208038976,
+        "duration" : 9913
+      }
+    }, {
+      "uid" : "a4b76fb80c276813",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/a4b76fb80c276813",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620208029063,
+        "stop" : 1620208038976,
+        "duration" : 9913
+      }
+    } ]
+  },
+  "6038e046ee26f98da530aebf7d575309" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "e8aabcf711d64c74",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/e8aabcf711d64c74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709833815,
+        "stop" : 1620709839741,
+        "duration" : 5926
+      }
+    }, {
+      "uid" : "d3393df44c0bc522",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/d3393df44c0bc522",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709833815,
+        "stop" : 1620709839741,
+        "duration" : 5926
+      }
+    }, {
+      "uid" : "a173d64234cc54a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/a173d64234cc54a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709833815,
+        "stop" : 1620709839741,
+        "duration" : 5926
+      }
+    }, {
+      "uid" : "6681ee2a0e9c5fe8",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/6681ee2a0e9c5fe8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709833815,
+        "stop" : 1620709839741,
+        "duration" : 5926
+      }
+    }, {
+      "uid" : "b525358f65193cb2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/b525358f65193cb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709833815,
+        "stop" : 1620709839741,
+        "duration" : 5926
+      }
+    }, {
+      "uid" : "b20cb846caccce1d",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/b20cb846caccce1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709833815,
+        "stop" : 1620709839741,
+        "duration" : 5926
+      }
+    }, {
+      "uid" : "ad0d6ceaac300469",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/ad0d6ceaac300469",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620394068399,
+        "stop" : 1620394074204,
+        "duration" : 5805
+      }
+    }, {
+      "uid" : "d5e6fe4dfb520930",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/d5e6fe4dfb520930",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620394068399,
+        "stop" : 1620394074204,
+        "duration" : 5805
+      }
+    } ]
+  },
+  "16c2c85f405c28012f46ec800e122701" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "257df879a6e612ec",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/257df879a6e612ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193789310,
+        "stop" : 1620193798650,
+        "duration" : 9340
+      }
+    }, {
+      "uid" : "877c5c04741a7e18",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/877c5c04741a7e18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193789310,
+        "stop" : 1620193798650,
+        "duration" : 9340
+      }
+    }, {
+      "uid" : "3cc2395785fcba76",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/3cc2395785fcba76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193789310,
+        "stop" : 1620193798650,
+        "duration" : 9340
+      }
+    }, {
+      "uid" : "91a5e88b152efe05",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/91a5e88b152efe05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193789310,
+        "stop" : 1620193798650,
+        "duration" : 9340
+      }
+    }, {
+      "uid" : "516428cdb5306919",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/516428cdb5306919",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193789310,
+        "stop" : 1620193798650,
+        "duration" : 9340
+      }
+    }, {
+      "uid" : "5d6aed9a3421c621",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/5d6aed9a3421c621",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193789310,
+        "stop" : 1620193798650,
+        "duration" : 9340
+      }
+    }, {
+      "uid" : "27f99a7f34a3d185",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/27f99a7f34a3d185",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193789310,
+        "stop" : 1620193798650,
+        "duration" : 9340
+      }
+    }, {
+      "uid" : "80baf4a19de37a56",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/80baf4a19de37a56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193789310,
+        "stop" : 1620193798650,
+        "duration" : 9340
+      }
+    } ]
+  },
+  "b06ea4aeacb62f9b90333b6619f13ec9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "459a0f520ba53643",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/459a0f520ba53643",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:2871}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 916c454ebc426b462775c70a87e7190b\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620216196133,
+        "stop" : 1620216231417,
+        "duration" : 35284
+      }
+    }, {
+      "uid" : "ed382e74fa17c098",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/ed382e74fa17c098",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:2871}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 916c454ebc426b462775c70a87e7190b\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620216196133,
+        "stop" : 1620216231417,
+        "duration" : 35284
+      }
+    }, {
+      "uid" : "c11b43e134379701",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/c11b43e134379701",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:2871}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 916c454ebc426b462775c70a87e7190b\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620216196133,
+        "stop" : 1620216231417,
+        "duration" : 35284
+      }
+    }, {
+      "uid" : "6a810d29d334cc7f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/6a810d29d334cc7f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:2871}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 916c454ebc426b462775c70a87e7190b\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620216196133,
+        "stop" : 1620216231417,
+        "duration" : 35284
+      }
+    }, {
+      "uid" : "8c84b385d8bb4e07",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/8c84b385d8bb4e07",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:2871}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 916c454ebc426b462775c70a87e7190b\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620216196133,
+        "stop" : 1620216231417,
+        "duration" : 35284
+      }
+    }, {
+      "uid" : "c02c29c823f37b4d",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/c02c29c823f37b4d",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:2871}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 916c454ebc426b462775c70a87e7190b\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620216196133,
+        "stop" : 1620216231417,
+        "duration" : 35284
+      }
+    }, {
+      "uid" : "28eeaccd1a76f05d",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/28eeaccd1a76f05d",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:2871}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 916c454ebc426b462775c70a87e7190b\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620216196133,
+        "stop" : 1620216231417,
+        "duration" : 35284
+      }
+    }, {
+      "uid" : "7db6cbb74fbb30eb",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/7db6cbb74fbb30eb",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:2871}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 916c454ebc426b462775c70a87e7190b\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620216196133,
+        "stop" : 1620216231417,
+        "duration" : 35284
+      }
+    } ]
+  },
+  "90f573dd1fd00b9a729a8fbef9b5001e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "3813f8bd5f7b5e32",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/3813f8bd5f7b5e32",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619428514361,
+        "stop" : 1619428514404,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "ea32521e60288093",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/ea32521e60288093",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619428514361,
+        "stop" : 1619428514404,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "45e6acd217edd96b",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/45e6acd217edd96b",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619428514361,
+        "stop" : 1619428514404,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "27ca3e1bed288ca5",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/27ca3e1bed288ca5",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619428514361,
+        "stop" : 1619428514404,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "a43b8d35d3bf0acb",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/a43b8d35d3bf0acb",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619428514361,
+        "stop" : 1619428514404,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "daf3618bed7f59a8",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/daf3618bed7f59a8",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619428514361,
+        "stop" : 1619428514404,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "2dd52351bc722921",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/2dd52351bc722921",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619428514361,
+        "stop" : 1619428514404,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "be2be78c23cae175",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/be2be78c23cae175",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619428514361,
+        "stop" : 1619428514404,
+        "duration" : 43
+      }
+    } ]
+  },
+  "97c9e8f33b4bfb99b9842d92e8e8c6b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "1132d66ebb11837d",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/1132d66ebb11837d",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620726120960,
+        "stop" : 1620726120966,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "278a5dd937966644",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/278a5dd937966644",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620726120960,
+        "stop" : 1620726120966,
+        "duration" : 6
+      }
+    } ]
+  },
+  "a357806ef2223e18478cedd3dd5c8f6d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "571c4bfbcf1906ae",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/571c4bfbcf1906ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564058212,
+        "stop" : 1620564096803,
+        "duration" : 38591
+      }
+    }, {
+      "uid" : "ffe14dc8a1dd2288",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/ffe14dc8a1dd2288",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564058212,
+        "stop" : 1620564096803,
+        "duration" : 38591
+      }
+    }, {
+      "uid" : "67c8098fb82c871e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/67c8098fb82c871e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564058212,
+        "stop" : 1620564096803,
+        "duration" : 38591
+      }
+    }, {
+      "uid" : "4ce40393bec855a2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/4ce40393bec855a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564058212,
+        "stop" : 1620564096803,
+        "duration" : 38591
+      }
+    }, {
+      "uid" : "8acf58bdb6406515",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/8acf58bdb6406515",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564058212,
+        "stop" : 1620564096803,
+        "duration" : 38591
+      }
+    }, {
+      "uid" : "ab81b2bf3cab1c19",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/ab81b2bf3cab1c19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564058212,
+        "stop" : 1620564096803,
+        "duration" : 38591
+      }
+    }, {
+      "uid" : "b8c8c7aaf6a5c7b3",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/b8c8c7aaf6a5c7b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564058212,
+        "stop" : 1620564096803,
+        "duration" : 38591
+      }
+    }, {
+      "uid" : "910ddb784d55fbfb",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/910ddb784d55fbfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564058212,
+        "stop" : 1620564096803,
+        "duration" : 38591
+      }
+    } ]
+  },
+  "6564cb00a7866c4d725f4eb24add1c62" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "775f4a5387c57df7",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/775f4a5387c57df7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619956926497,
+        "stop" : 1619956927179,
+        "duration" : 682
+      }
+    }, {
+      "uid" : "dfae463b48afe29d",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/dfae463b48afe29d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619956926497,
+        "stop" : 1619956927179,
+        "duration" : 682
+      }
+    }, {
+      "uid" : "6d8516deb4a04b58",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/6d8516deb4a04b58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619956926497,
+        "stop" : 1619956927179,
+        "duration" : 682
+      }
+    }, {
+      "uid" : "e1c40e0d2049558c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/e1c40e0d2049558c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619956926497,
+        "stop" : 1619956927179,
+        "duration" : 682
+      }
+    }, {
+      "uid" : "b2138597c9cadbd1",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/b2138597c9cadbd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619956926497,
+        "stop" : 1619956927179,
+        "duration" : 682
+      }
+    }, {
+      "uid" : "6ea5b04e94a7093a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/6ea5b04e94a7093a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619956926497,
+        "stop" : 1619956927179,
+        "duration" : 682
+      }
+    }, {
+      "uid" : "d8fd342597462cfc",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/d8fd342597462cfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619956926497,
+        "stop" : 1619956927179,
+        "duration" : 682
+      }
+    }, {
+      "uid" : "3d907988bb8e93a3",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/3d907988bb8e93a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619956926497,
+        "stop" : 1619956927179,
+        "duration" : 682
+      }
+    } ]
+  },
+  "4bd51041ea6e7ec286b3e651b6426e56" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "b3f608a16ab84a53",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/b3f608a16ab84a53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709823877,
+        "stop" : 1620709833802,
+        "duration" : 9925
+      }
+    }, {
+      "uid" : "2f7860ef686567df",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/2f7860ef686567df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709823877,
+        "stop" : 1620709833802,
+        "duration" : 9925
+      }
+    }, {
+      "uid" : "36a136a6ea950559",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/36a136a6ea950559",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709823877,
+        "stop" : 1620709833802,
+        "duration" : 9925
+      }
+    }, {
+      "uid" : "6607c054dd804ad3",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/6607c054dd804ad3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709823877,
+        "stop" : 1620709833802,
+        "duration" : 9925
+      }
+    }, {
+      "uid" : "cb74dbd2b0999278",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/cb74dbd2b0999278",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709823877,
+        "stop" : 1620709833802,
+        "duration" : 9925
+      }
+    }, {
+      "uid" : "14012da0e5d61013",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/14012da0e5d61013",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709823877,
+        "stop" : 1620709833802,
+        "duration" : 9925
+      }
+    }, {
+      "uid" : "b8e5ec1fc7f4135a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/b8e5ec1fc7f4135a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564113845,
+        "stop" : 1620564122178,
+        "duration" : 8333
+      }
+    }, {
+      "uid" : "2e3c98e99e557c62",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/2e3c98e99e557c62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564113845,
+        "stop" : 1620564122178,
+        "duration" : 8333
+      }
+    } ]
+  },
+  "c893c42b7558507e41a3f19bac35ddac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "b53e123be66a932b",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/b53e123be66a932b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620480552985,
+        "stop" : 1620480565697,
+        "duration" : 12712
+      }
+    }, {
+      "uid" : "651ff8346352d99e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/651ff8346352d99e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620480552985,
+        "stop" : 1620480565697,
+        "duration" : 12712
+      }
+    }, {
+      "uid" : "dab2fb3d305227c9",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/dab2fb3d305227c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620480552985,
+        "stop" : 1620480565697,
+        "duration" : 12712
+      }
+    }, {
+      "uid" : "5166e40908d361e5",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/5166e40908d361e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620480552985,
+        "stop" : 1620480565697,
+        "duration" : 12712
+      }
+    }, {
+      "uid" : "4babd3f9da1260d8",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/4babd3f9da1260d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620480552985,
+        "stop" : 1620480565697,
+        "duration" : 12712
+      }
+    }, {
+      "uid" : "381d876e56429fca",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/381d876e56429fca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620480552985,
+        "stop" : 1620480565697,
+        "duration" : 12712
+      }
+    }, {
+      "uid" : "d93725248d0d6e29",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/d93725248d0d6e29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620480552985,
+        "stop" : 1620480565697,
+        "duration" : 12712
+      }
+    }, {
+      "uid" : "b0abd7f090e7df58",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/b0abd7f090e7df58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620480552985,
+        "stop" : 1620480565697,
+        "duration" : 12712
+      }
+    } ]
+  },
+  "a76ebb5462eb8e9f2cc7da7224a808c4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "9fa5253a726eddb4",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/9fa5253a726eddb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620121947268,
+        "stop" : 1620121953078,
+        "duration" : 5810
+      }
+    }, {
+      "uid" : "d4fe2cece017a3d8",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/d4fe2cece017a3d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620121947268,
+        "stop" : 1620121953078,
+        "duration" : 5810
+      }
+    }, {
+      "uid" : "a02e57e31adceedc",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/a02e57e31adceedc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620121947268,
+        "stop" : 1620121953078,
+        "duration" : 5810
+      }
+    }, {
+      "uid" : "fadfe52ef223c797",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/fadfe52ef223c797",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620121947268,
+        "stop" : 1620121953078,
+        "duration" : 5810
+      }
+    }, {
+      "uid" : "a6e83544d24fbd19",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/a6e83544d24fbd19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620121947268,
+        "stop" : 1620121953078,
+        "duration" : 5810
+      }
+    }, {
+      "uid" : "dae1a4b99079945a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/dae1a4b99079945a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620121947268,
+        "stop" : 1620121953078,
+        "duration" : 5810
+      }
+    }, {
+      "uid" : "443413691c791cbf",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/443413691c791cbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620121947268,
+        "stop" : 1620121953078,
+        "duration" : 5810
+      }
+    }, {
+      "uid" : "fbef544aeed87017",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/fbef544aeed87017",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620121947268,
+        "stop" : 1620121953078,
+        "duration" : 5810
+      }
+    } ]
+  },
+  "1a7ef2128d67fa09d7d6a9cf38cfd8b3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "810d3e831b0f4ff4",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/810d3e831b0f4ff4",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7913b0a5e3e315e051925289d74b35cb",
+      "time" : {
+        "start" : 1620563899307,
+        "stop" : 1620563918395,
+        "duration" : 19088
+      }
+    }, {
+      "uid" : "39a4e91b867fea4f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/39a4e91b867fea4f",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7913b0a5e3e315e051925289d74b35cb",
+      "time" : {
+        "start" : 1620563899307,
+        "stop" : 1620563918395,
+        "duration" : 19088
+      }
+    }, {
+      "uid" : "34ebc36d025c04cb",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/34ebc36d025c04cb",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7913b0a5e3e315e051925289d74b35cb",
+      "time" : {
+        "start" : 1620563899307,
+        "stop" : 1620563918395,
+        "duration" : 19088
+      }
+    }, {
+      "uid" : "91dd30b2b06c369e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/91dd30b2b06c369e",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7913b0a5e3e315e051925289d74b35cb",
+      "time" : {
+        "start" : 1620563899307,
+        "stop" : 1620563918395,
+        "duration" : 19088
+      }
+    }, {
+      "uid" : "c316a15994857181",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/c316a15994857181",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7913b0a5e3e315e051925289d74b35cb",
+      "time" : {
+        "start" : 1620563899307,
+        "stop" : 1620563918395,
+        "duration" : 19088
+      }
+    }, {
+      "uid" : "28e3137322e04a92",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/28e3137322e04a92",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7913b0a5e3e315e051925289d74b35cb",
+      "time" : {
+        "start" : 1620563899307,
+        "stop" : 1620563918395,
+        "duration" : 19088
+      }
+    }, {
+      "uid" : "d9e159c7d35d71aa",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/d9e159c7d35d71aa",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7913b0a5e3e315e051925289d74b35cb",
+      "time" : {
+        "start" : 1620563899307,
+        "stop" : 1620563918395,
+        "duration" : 19088
+      }
+    }, {
+      "uid" : "332bdcc3d104ab75",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/332bdcc3d104ab75",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7913b0a5e3e315e051925289d74b35cb",
+      "time" : {
+        "start" : 1620563899307,
+        "stop" : 1620563918395,
+        "duration" : 19088
+      }
+    } ]
+  },
+  "a078b9fbbfaf7cb858a3f7a47999958b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "65070bca0346101f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/65070bca0346101f",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620565321679,
+        "stop" : 1620565321682,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "9c3f94fcf52c9552",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/9c3f94fcf52c9552",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620565321679,
+        "stop" : 1620565321682,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "3157889df9da4b10",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/3157889df9da4b10",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620565321679,
+        "stop" : 1620565321682,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "699cb4bbf65fc041",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/699cb4bbf65fc041",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620565321679,
+        "stop" : 1620565321682,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "c736d2004d2f67ae",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/c736d2004d2f67ae",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620565321679,
+        "stop" : 1620565321682,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "ce49177b061d81aa",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/ce49177b061d81aa",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620565321679,
+        "stop" : 1620565321682,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "a62119c8aeb70d2c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/a62119c8aeb70d2c",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620565321679,
+        "stop" : 1620565321682,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "33f7479927c5e502",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/33f7479927c5e502",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620565321679,
+        "stop" : 1620565321682,
+        "duration" : 3
+      }
+    } ]
+  },
+  "bf0aa569dc976b4b3b07245cfb5ac0ba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "2dc3724c2f7fc9ac",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/2dc3724c2f7fc9ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620212017784,
+        "stop" : 1620212032521,
+        "duration" : 14737
+      }
+    }, {
+      "uid" : "1f514994b50b0695",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/1f514994b50b0695",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620212017784,
+        "stop" : 1620212032521,
+        "duration" : 14737
+      }
+    }, {
+      "uid" : "f81b8bbc5ce8a9be",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/f81b8bbc5ce8a9be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620212017784,
+        "stop" : 1620212032521,
+        "duration" : 14737
+      }
+    }, {
+      "uid" : "b9aa702dfe546ff8",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/b9aa702dfe546ff8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620212017784,
+        "stop" : 1620212032521,
+        "duration" : 14737
+      }
+    }, {
+      "uid" : "f24c357e88f7a8ed",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/f24c357e88f7a8ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620212017784,
+        "stop" : 1620212032521,
+        "duration" : 14737
+      }
+    }, {
+      "uid" : "e713ad990d9ae491",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/e713ad990d9ae491",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620212017784,
+        "stop" : 1620212032521,
+        "duration" : 14737
+      }
+    }, {
+      "uid" : "9893827304b24591",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/9893827304b24591",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620212017784,
+        "stop" : 1620212032521,
+        "duration" : 14737
+      }
+    }, {
+      "uid" : "b808af05437f094d",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/b808af05437f094d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620212017784,
+        "stop" : 1620212032521,
+        "duration" : 14737
+      }
+    } ]
+  },
+  "64931dab66202a4e6b427d8c9189e053" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "e1984089892f0d48",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/e1984089892f0d48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620387685417,
+        "stop" : 1620387735198,
+        "duration" : 49781
+      }
+    }, {
+      "uid" : "8f3e2cf428121da8",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/8f3e2cf428121da8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620387685417,
+        "stop" : 1620387735198,
+        "duration" : 49781
+      }
+    }, {
+      "uid" : "6058a5f1757eb893",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/6058a5f1757eb893",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620387685417,
+        "stop" : 1620387735198,
+        "duration" : 49781
+      }
+    }, {
+      "uid" : "8d488655c2bbb614",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/8d488655c2bbb614",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620387685417,
+        "stop" : 1620387735198,
+        "duration" : 49781
+      }
+    }, {
+      "uid" : "28d14e52d0925fe3",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/28d14e52d0925fe3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620387685417,
+        "stop" : 1620387735198,
+        "duration" : 49781
+      }
+    }, {
+      "uid" : "4792908696bb50f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/4792908696bb50f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620387685417,
+        "stop" : 1620387735198,
+        "duration" : 49781
+      }
+    }, {
+      "uid" : "eb5054fa4231cb3d",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/eb5054fa4231cb3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620387685417,
+        "stop" : 1620387735198,
+        "duration" : 49781
+      }
+    }, {
+      "uid" : "2ad3443f78629f83",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/2ad3443f78629f83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620387685417,
+        "stop" : 1620387735198,
+        "duration" : 49781
+      }
+    } ]
+  },
+  "268da83d6e1f2da485b4b6f47da511e4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "f4a356636cd09c4a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/f4a356636cd09c4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706779584,
+        "stop" : 1620706784218,
+        "duration" : 4634
+      }
+    }, {
+      "uid" : "d503676ac723e2e4",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/d503676ac723e2e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706779584,
+        "stop" : 1620706784218,
+        "duration" : 4634
+      }
+    }, {
+      "uid" : "2bbff70758a9b613",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/2bbff70758a9b613",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706779584,
+        "stop" : 1620706784218,
+        "duration" : 4634
+      }
+    }, {
+      "uid" : "80c2cdebfbb38016",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/80c2cdebfbb38016",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706779584,
+        "stop" : 1620706784218,
+        "duration" : 4634
+      }
+    }, {
+      "uid" : "ba926b975f5585d8",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/ba926b975f5585d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706779584,
+        "stop" : 1620706784218,
+        "duration" : 4634
+      }
+    }, {
+      "uid" : "b8e0eb85d3459ae6",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/b8e0eb85d3459ae6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706779584,
+        "stop" : 1620706784218,
+        "duration" : 4634
+      }
+    }, {
+      "uid" : "e4c837c7585db85e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/e4c837c7585db85e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706779584,
+        "stop" : 1620706784218,
+        "duration" : 4634
+      }
+    }, {
+      "uid" : "81d9c58a499f3996",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/81d9c58a499f3996",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706779584,
+        "stop" : 1620706784218,
+        "duration" : 4634
+      }
+    } ]
+  },
+  "ba0911ed8febcfa384eef9ba0eb75ef0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "947871ce62d2f46d",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/947871ce62d2f46d",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 573123f272791b211b5f221b587831de\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620563860508,
+        "stop" : 1620563890184,
+        "duration" : 29676
+      }
+    }, {
+      "uid" : "eb0e69a7760e120b",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/eb0e69a7760e120b",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 573123f272791b211b5f221b587831de\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620563860508,
+        "stop" : 1620563890184,
+        "duration" : 29676
+      }
+    }, {
+      "uid" : "d705d4f8aecb745c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/d705d4f8aecb745c",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 573123f272791b211b5f221b587831de\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620563860508,
+        "stop" : 1620563890184,
+        "duration" : 29676
+      }
+    }, {
+      "uid" : "d48ef1442a05bc74",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/d48ef1442a05bc74",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 573123f272791b211b5f221b587831de\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620563860508,
+        "stop" : 1620563890184,
+        "duration" : 29676
+      }
+    }, {
+      "uid" : "288ca4c4c9db9ec2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/288ca4c4c9db9ec2",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 573123f272791b211b5f221b587831de\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620563860508,
+        "stop" : 1620563890184,
+        "duration" : 29676
+      }
+    }, {
+      "uid" : "f9fd449c3c12f764",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/f9fd449c3c12f764",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 573123f272791b211b5f221b587831de\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620563860508,
+        "stop" : 1620563890184,
+        "duration" : 29676
+      }
+    }, {
+      "uid" : "6942107426533932",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/6942107426533932",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 573123f272791b211b5f221b587831de\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620563860508,
+        "stop" : 1620563890184,
+        "duration" : 29676
+      }
+    }, {
+      "uid" : "d3457c3816c0415a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/d3457c3816c0415a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 573123f272791b211b5f221b587831de\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "time" : {
+        "start" : 1620563860508,
+        "stop" : 1620563890184,
+        "duration" : 29676
+      }
+    } ]
+  },
+  "324f71a02b40b00d36b3c4f39e2c59cf" : {
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "466989529f72cb55",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/466989529f72cb55",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tTry to login with invalid email/phonenumber expected [false] but found [true]",
+      "time" : {
+        "start" : 1620732796295,
+        "stop" : 1620732796296,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5282e8f3a1610fd2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/5282e8f3a1610fd2",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tTry to login with invalid email/phonenumber expected [false] but found [true]",
+      "time" : {
+        "start" : 1620732796295,
+        "stop" : 1620732796296,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "87eb291d97961d26",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/87eb291d97961d26",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620712378523,
+        "stop" : 1620712378524,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "38652908e95404e",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/38652908e95404e",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620711546942,
+        "stop" : 1620711546943,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e6ae9bc863ff0de4",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/e6ae9bc863ff0de4",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620711546942,
+        "stop" : 1620711546943,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b35789a26859295b",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/b35789a26859295b",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.quit()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1620391504425,
+        "stop" : 1620391504429,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "266aa582afc9a34f",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/266aa582afc9a34f",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.quit()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1620391504425,
+        "stop" : 1620391504429,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "8f72fcfa874fa83",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/8f72fcfa874fa83",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.quit()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1620391504425,
+        "stop" : 1620391504429,
+        "duration" : 4
+      }
+    } ]
+  },
+  "48f6432645516b1bfe7945e5856bff55" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "3ebe9b29fd2400eb",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/3ebe9b29fd2400eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620562470071,
+        "stop" : 1620562471791,
+        "duration" : 1720
+      }
+    }, {
+      "uid" : "a9b5229c4361591",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/a9b5229c4361591",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620562470071,
+        "stop" : 1620562471791,
+        "duration" : 1720
+      }
+    }, {
+      "uid" : "1193ea9e74e0bf6b",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/1193ea9e74e0bf6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620562470071,
+        "stop" : 1620562471791,
+        "duration" : 1720
+      }
+    }, {
+      "uid" : "93a2e85ab53c11b6",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/93a2e85ab53c11b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620562470071,
+        "stop" : 1620562471791,
+        "duration" : 1720
+      }
+    }, {
+      "uid" : "2323bfae159766ec",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/2323bfae159766ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620562470071,
+        "stop" : 1620562471791,
+        "duration" : 1720
+      }
+    }, {
+      "uid" : "d505cf13915a0afd",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/d505cf13915a0afd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620562470071,
+        "stop" : 1620562471791,
+        "duration" : 1720
+      }
+    }, {
+      "uid" : "2a3a4d9408599c07",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/2a3a4d9408599c07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620562470071,
+        "stop" : 1620562471791,
+        "duration" : 1720
+      }
+    }, {
+      "uid" : "c2be35197d87f8e2",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/c2be35197d87f8e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620562470071,
+        "stop" : 1620562471791,
+        "duration" : 1720
+      }
+    } ]
+  },
+  "4fc17745b8c4b978f702a732d08a8e03" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "104ab0c9556ecb0a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/104ab0c9556ecb0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706792956,
+        "stop" : 1620706800626,
+        "duration" : 7670
+      }
+    }, {
+      "uid" : "9600d5feb94bd33a",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/9600d5feb94bd33a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706792956,
+        "stop" : 1620706800626,
+        "duration" : 7670
+      }
+    }, {
+      "uid" : "24a0d8d5f02c3c00",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/24a0d8d5f02c3c00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706792956,
+        "stop" : 1620706800626,
+        "duration" : 7670
+      }
+    }, {
+      "uid" : "addecb5be2988025",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/addecb5be2988025",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706792956,
+        "stop" : 1620706800626,
+        "duration" : 7670
+      }
+    }, {
+      "uid" : "46d4cd8981ac664b",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/46d4cd8981ac664b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706792956,
+        "stop" : 1620706800626,
+        "duration" : 7670
+      }
+    }, {
+      "uid" : "906c97a45837119c",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/906c97a45837119c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706792956,
+        "stop" : 1620706800626,
+        "duration" : 7670
+      }
+    }, {
+      "uid" : "d179307b499ee8f5",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/d179307b499ee8f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706792956,
+        "stop" : 1620706800626,
+        "duration" : 7670
+      }
+    }, {
+      "uid" : "a5acf51858e69b04",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/a5acf51858e69b04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706792956,
+        "stop" : 1620706800626,
+        "duration" : 7670
+      }
+    } ]
+  },
+  "d97b2746a418fdb2fbfb8f741795f05" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 8,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "d4ab3b7ac2a22865",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure/#testresult/d4ab3b7ac2a22865",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException: Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.provideFeatures()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027942,
+        "stop" : 1620385027944,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "51791cfec9988ee3",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/51791cfec9988ee3",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException: Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.provideFeatures()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027942,
+        "stop" : 1620385027944,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "48b72a05fe064128",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/48b72a05fe064128",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException: Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.provideFeatures()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027942,
+        "stop" : 1620385027944,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "39be751cc8944df0",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/39be751cc8944df0",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException: Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.provideFeatures()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027942,
+        "stop" : 1620385027944,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1de657f0c74ae9c1",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/1de657f0c74ae9c1",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException: Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.provideFeatures()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027942,
+        "stop" : 1620385027944,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ab36082a93c52ba5",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/ab36082a93c52ba5",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException: Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.provideFeatures()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027942,
+        "stop" : 1620385027944,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "e66c94c9f3d99e38",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/e66c94c9f3d99e38",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException: Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.provideFeatures()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027942,
+        "stop" : 1620385027944,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "10ceeb51c44f8ac0",
+      "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/10ceeb51c44f8ac0",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException: Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.provideFeatures()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620385027942,
+        "stop" : 1620385027944,
+        "duration" : 2
+      }
+    } ]
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "uid" : "ddd6341de0a2e6b2",
+  "name" : "To verify user not able to SignIn with invalid credentials",
+  "fullName" : "pageTestCases.LoginTest.invalidSignIn",
+  "historyId" : "af4eb947f79d6d11833e155ce3d35b98",
+  "time" : {
+    "start" : 1620734114302,
+    "stop" : 1620734124497,
+    "duration" : 10195
+  },
+  "description" : "Test Case Description:To verify user not able to SignIn with Invalid Credentials",
+  "descriptionHtml" : "<p>Test Case Description:To verify user not able to SignIn with Invalid Credentials</p>\n",
+  "status" : "failed",
+  "statusMessage" : "Try to login with invalid email/phonenumber expected [false] but found [true]",
+  "statusTrace" : "java.lang.AssertionError: Try to login with invalid email/phonenumber expected [false] but found [true]\r\n\tat org.testng.Assert.fail(Assert.java:99)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:1037)\r\n\tat org.testng.Assert.assertFalse(Assert.java:67)\r\n\tat pageTestCases.LoginTest.invalidSignIn(LoginTest.java:90)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)\r\n\tat org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)\r\n\tat org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)\r\n\tat org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)\r\n\tat org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)\r\n\tat org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)\r\n\tat java.util.ArrayList.forEach(ArrayList.java:1257)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:794)\r\n\tat org.testng.TestRunner.run(TestRunner.java:596)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:377)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:276)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1134)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1063)\r\n\tat org.testng.TestNG.run(TestNG.java:1031)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)\r\n\tat org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)\r\n",
+  "flaky" : true,
+  "newFailed" : true,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1620734107318,
+      "stop" : 1620734114133,
+      "duration" : 6815
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description:To verify user not able to SignIn with Invalid Credentials",
+    "status" : "failed",
+    "statusMessage" : "Try to login with invalid email/phonenumber expected [false] but found [true]",
+    "statusTrace" : "java.lang.AssertionError: Try to login with invalid email/phonenumber expected [false] but found [true]\r\n\tat org.testng.Assert.fail(Assert.java:99)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:1037)\r\n\tat org.testng.Assert.assertFalse(Assert.java:67)\r\n\tat pageTestCases.LoginTest.invalidSignIn(LoginTest.java:90)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)\r\n\tat org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)\r\n\tat org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)\r\n\tat org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)\r\n\tat org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)\r\n\tat org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)\r\n\tat java.util.ArrayList.forEach(ArrayList.java:1257)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:794)\r\n\tat org.testng.TestRunner.run(TestRunner.java:596)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:377)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:276)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1134)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1063)\r\n\tat org.testng.TestNG.run(TestNG.java:1031)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)\r\n\tat org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)\r\n",
+    "steps" : [ {
+      "name" : "Method to open Signin form",
+      "time" : {
+        "start" : 1620734120541,
+        "stop" : 1620734120548,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to enter email or mobile no",
+      "time" : {
+        "start" : 1620734122508,
+        "stop" : 1620734122508,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to click on Continue",
+      "time" : {
+        "start" : 1620734122649,
+        "stop" : 1620734122649,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to show invalid email response",
+      "time" : {
+        "start" : 1620734124121,
+        "stop" : 1620734124121,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "bc5ae6b59d0e0075",
+      "name" : "Page Screenshot",
+      "source" : "bc5ae6b59d0e0075.png",
+      "type" : "image/png",
+      "size" : 32394
+    }, {
+      "uid" : "e439f777438285b7",
+      "name" : "invalidSignInFailed and screenshot Taken!",
+      "source" : "e439f777438285b7.txt",
+      "type" : "text/plain",
+      "size" : 41
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1620734125075,
+      "stop" : 1620734126008,
+      "duration" : 933
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "invalidSignIn"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "4748@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check user not able to SignIn with invalid credentials"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "55ddb63e5e2cdd7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620732783850,
+        "stop" : 1620732795364,
+        "duration" : 11514
+      }
+    }, {
+      "uid" : "c859e754620d49c1",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620726121325,
+        "stop" : 1620726121328,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "f2735960d0823922",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620718400964,
+        "stop" : 1620718411218,
+        "duration" : 10254
+      }
+    }, {
+      "uid" : "4afc982fb9f7e774",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620714416785,
+        "stop" : 1620714424215,
+        "duration" : 7430
+      }
+    }, {
+      "uid" : "8682514e4753cdd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620714206083,
+        "stop" : 1620714214461,
+        "duration" : 8378
+      }
+    }, {
+      "uid" : "60b8178f9e8de62a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620714038228,
+        "stop" : 1620714046391,
+        "duration" : 8163
+      }
+    }, {
+      "uid" : "9281bd1ee1fb88f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620712365661,
+        "stop" : 1620712378206,
+        "duration" : 12545
+      }
+    }, {
+      "uid" : "5cdef716dd7037d1",
+      "status" : "broken",
+      "statusDetails" : "Illegal char <\n> at index 90: C:\\Users\\ricky\\eclipse-workspace\\AmazonAutomation_KrishanMohan\\reports\\There was a problem\nWe cannot find an account with that email address.jpg",
+      "time" : {
+        "start" : 1620712181730,
+        "stop" : 1620712190849,
+        "duration" : 9119
+      }
+    }, {
+      "uid" : "f1b09e714c39eb71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620711906729,
+        "stop" : 1620711912889,
+        "duration" : 6160
+      }
+    }, {
+      "uid" : "d8f5a178fee04a46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620711704406,
+        "stop" : 1620711710946,
+        "duration" : 6540
+      }
+    }, {
+      "uid" : "6703384fbecd46e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620711540427,
+        "stop" : 1620711546695,
+        "duration" : 6268
+      }
+    }, {
+      "uid" : "1461758d8c4cb2d1",
+      "status" : "failed",
+      "statusDetails" : "expected [false] but found [true]",
+      "time" : {
+        "start" : 1620711426754,
+        "stop" : 1620711435098,
+        "duration" : 8344
+      }
+    }, {
+      "uid" : "8aef3fc50ad1c1c9",
+      "status" : "failed",
+      "statusDetails" : "expected [false] but found [true]",
+      "time" : {
+        "start" : 1620711340416,
+        "stop" : 1620711347824,
+        "duration" : 7408
+      }
+    }, {
+      "uid" : "4445b6dcd6c5fb34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620711271225,
+        "stop" : 1620711278763,
+        "duration" : 7538
+      }
+    }, {
+      "uid" : "e46de3982117bd02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620711222674,
+        "stop" : 1620711229082,
+        "duration" : 6408
+      }
+    }, {
+      "uid" : "fc1d0e0b17bf3523",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620711014669,
+        "stop" : 1620711022968,
+        "duration" : 8299
+      }
+    }, {
+      "uid" : "3697ee3bab881623",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620710958096,
+        "stop" : 1620710965822,
+        "duration" : 7726
+      }
+    }, {
+      "uid" : "d551635f548e0efe",
+      "status" : "broken",
+      "statusDetails" : "no such alert\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:4058}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 5cd2ec55e644f70d05657de3ca613c5d",
+      "time" : {
+        "start" : 1620710873464,
+        "stop" : 1620710883106,
+        "duration" : 9642
+      }
+    }, {
+      "uid" : "fac45036631a885",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620710222438,
+        "stop" : 1620710231833,
+        "duration" : 9395
+      }
+    }, {
+      "uid" : "947ab133df9e334f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620710043868,
+        "stop" : 1620710052796,
+        "duration" : 8928
+      }
+    }, {
+      "uid" : "a7c95f1bb8665777",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709814430,
+        "stop" : 1620709823696,
+        "duration" : 9266
+      }
+    }, {
+      "uid" : "cc685a2598d2cbed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564097737,
+        "stop" : 1620564113837,
+        "duration" : 16100
+      }
+    }, {
+      "uid" : "15d6180f8e3e543b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563505666,
+        "stop" : 1620563514948,
+        "duration" : 9282
+      }
+    }, {
+      "uid" : "17eda521ed43acaa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620394053235,
+        "stop" : 1620394059703,
+        "duration" : 6468
+      }
+    }, {
+      "uid" : "8de23eb3511eb5c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620393776710,
+        "stop" : 1620393784087,
+        "duration" : 7377
+      }
+    }, {
+      "uid" : "b4dd7c844d29984a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620391726422,
+        "stop" : 1620391730292,
+        "duration" : 3870
+      }
+    }, {
+      "uid" : "73daba422b71238c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620391642325,
+        "stop" : 1620391645693,
+        "duration" : 3368
+      }
+    }, {
+      "uid" : "68c8961a8486ceeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620391555643,
+        "stop" : 1620391558139,
+        "duration" : 2496
+      }
+    }, {
+      "uid" : "30f21d0030c24a40",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"pageObject.LoginPage.openSignIn()\" because \"this.LoginPg\" is null",
+      "time" : {
+        "start" : 1620391503923,
+        "stop" : 1620391503951,
+        "duration" : 28
+      }
+    }, {
+      "uid" : "86dc763072ae7000",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620391419768,
+        "stop" : 1620391422738,
+        "duration" : 2970
+      }
+    }, {
+      "uid" : "f8b2eaaa1aa5294",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620390347061,
+        "stop" : 1620390349766,
+        "duration" : 2705
+      }
+    }, {
+      "uid" : "5c6567a34462b867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620390194985,
+        "stop" : 1620390197328,
+        "duration" : 2343
+      }
+    }, {
+      "uid" : "6f66782bf7ad5fa6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620390116896,
+        "stop" : 1620390120459,
+        "duration" : 3563
+      }
+    }, {
+      "uid" : "75ac9b8972fcc7b1",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"input[name='email']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:3866}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7712fdf55f81aa89814551c9d7e4e23a\n*** Element info: {Using=css selector, value=input[name='email']}",
+      "time" : {
+        "start" : 1620390041868,
+        "stop" : 1620390055082,
+        "duration" : 13214
+      }
+    }, {
+      "uid" : "d134766d14ecbb8d",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"input[name='email']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:3715}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: de008d6ce0a1c68714c2ddef14c4c930\n*** Element info: {Using=css selector, value=input[name='email']}",
+      "time" : {
+        "start" : 1620389597896,
+        "stop" : 1620389609177,
+        "duration" : 11281
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "b093685b47f43acf",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/b093685b47f43acf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620732783850,
+          "stop" : 1620732795364,
+          "duration" : 11514
+        }
+      }, {
+        "uid" : "de3f554fc39690",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/de3f554fc39690",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620712365661,
+          "stop" : 1620712378206,
+          "duration" : 12545
+        }
+      }, {
+        "uid" : "969be2fb50740495",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/969be2fb50740495",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620711906729,
+          "stop" : 1620711912889,
+          "duration" : 6160
+        }
+      }, {
+        "uid" : "57f4756b1f8f3a97",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/57f4756b1f8f3a97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620711540427,
+          "stop" : 1620711546695,
+          "duration" : 6268
+        }
+      }, {
+        "uid" : "c4b67652a0611ee1",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/c4b67652a0611ee1",
+        "status" : "failed",
+        "statusDetails" : "expected [false] but found [true]",
+        "time" : {
+          "start" : 1620711426754,
+          "stop" : 1620711435098,
+          "duration" : 8344
+        }
+      }, {
+        "uid" : "f2aece5777ad8f96",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/f2aece5777ad8f96",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620564097737,
+          "stop" : 1620564113837,
+          "duration" : 16100
+        }
+      }, {
+        "uid" : "362cecb8c19c1de2",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/362cecb8c19c1de2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620564097737,
+          "stop" : 1620564113837,
+          "duration" : 16100
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ddd6341de0a2e6b2.json",
+  "parameterValues" : [ ]
+}

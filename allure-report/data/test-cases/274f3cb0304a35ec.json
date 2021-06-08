@@ -1,0 +1,1006 @@
+{
+  "uid" : "274f3cb0304a35ec",
+  "name" : "To verify on entering data in Search text box than suggested item displayed",
+  "fullName" : "pageTestCases.homeTest.searchBoxSuggestedItemsDisplayed",
+  "historyId" : "865a0fffceee2b449ce77cd78387b880",
+  "time" : {
+    "start" : 1620041591141,
+    "stop" : 1620041592526,
+    "duration" : 1385
+  },
+  "description" : "Test Case Description:Verify Search text box suggested items",
+  "descriptionHtml" : "<p>Test Case Description:Verify Search text box suggested items</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialise",
+    "time" : {
+      "start" : 1620041581472,
+      "stop" : 1620041590646,
+      "duration" : 9174
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description:Verify Search text box suggested items",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Method for Entering data in Search Text Box",
+      "time" : {
+        "start" : 1620041591168,
+        "stop" : 1620041591172,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041591315,
+        "stop" : 1620041591315,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041591870,
+        "stop" : 1620041591870,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041591945,
+        "stop" : 1620041591946,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041591964,
+        "stop" : 1620041591964,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041591999,
+        "stop" : 1620041591999,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592042,
+        "stop" : 1620041592042,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592082,
+        "stop" : 1620041592082,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592096,
+        "stop" : 1620041592096,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592129,
+        "stop" : 1620041592130,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592144,
+        "stop" : 1620041592145,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592184,
+        "stop" : 1620041592184,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592200,
+        "stop" : 1620041592200,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592231,
+        "stop" : 1620041592231,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592248,
+        "stop" : 1620041592248,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592299,
+        "stop" : 1620041592299,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592314,
+        "stop" : 1620041592314,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592350,
+        "stop" : 1620041592350,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592365,
+        "stop" : 1620041592365,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592420,
+        "stop" : 1620041592420,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592445,
+        "stop" : 1620041592445,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for getting Suggested Items",
+      "time" : {
+        "start" : 1620041592500,
+        "stop" : 1620041592500,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 22,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.homeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.homeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchBoxSuggestedItemsDisplayed"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.homeTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "4684@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check Search text box showing suggested item list on entering data"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ae2d0c7743629d62",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1620041435711,
+        "stop" : 1620041437655,
+        "duration" : 1944
+      }
+    }, {
+      "uid" : "830de4128f5fb1c4",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1620041309939,
+        "stop" : 1620041311921,
+        "duration" : 1982
+      }
+    }, {
+      "uid" : "343fc964f72aa3db",
+      "status" : "skipped",
+      "statusDetails" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:25772\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1620041275159,
+        "stop" : 1620041275167,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "212e1d610aa0113c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620041200337,
+        "stop" : 1620041202238,
+        "duration" : 1901
+      }
+    }, {
+      "uid" : "20a9e6cae5fdc8b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620036775829,
+        "stop" : 1620036776892,
+        "duration" : 1063
+      }
+    }, {
+      "uid" : "5a32e3ba8b3bc5a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620036717412,
+        "stop" : 1620036719165,
+        "duration" : 1753
+      }
+    }, {
+      "uid" : "d3c23c0f582cd750",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620036160013,
+        "stop" : 1620036161219,
+        "duration" : 1206
+      }
+    }, {
+      "uid" : "2e971fd370bab2ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620035977707,
+        "stop" : 1620035979617,
+        "duration" : 1910
+      }
+    }, {
+      "uid" : "e36ee177e20ddae0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620035556157,
+        "stop" : 1620035558559,
+        "duration" : 2402
+      }
+    }, {
+      "uid" : "e180481610a3ccc7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620035455884,
+        "stop" : 1620035458915,
+        "duration" : 3031
+      }
+    }, {
+      "uid" : "b01469a603608a39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620035236783,
+        "stop" : 1620035238611,
+        "duration" : 1828
+      }
+    }, {
+      "uid" : "6d7d688bb66fbd4c",
+      "status" : "skipped",
+      "statusDetails" : "unknown error: Chrome failed to start: exited normally.\n  (chrome not reachable)\n  (The process started from chrome location C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: Backtrace:\n\tOrdinal0 [0x015CC013+2474003]\n\tOrdinal0 [0x015629C1+2042305]\n\tOrdinal0 [0x01472F68+1060712]\n\tOrdinal0 [0x0149024D+1180237]\n\tOrdinal0 [0x0148AA83+1157763]\n\tOrdinal0 [0x014BA2A2+1352354]\n\tOrdinal0 [0x014B8FAA+1347498]\n\tOrdinal0 [0x014B66DB+1337051]\n\tOrdinal0 [0x01493427+1192999]\n\tOrdinal0 [0x014942EE+1196782]\n\tOrdinal0 [0x01494279+1196665]\n\tGetHandleVerifier [0x017596FC+1590332]\n\tGetHandleVerifier [0x01808614+2306900]\n\tGetHandleVerifier [0x01659E93+543699]\n\tGetHandleVerifier [0x016592CE+540686]\n\tOrdinal0 [0x015686BA+2066106]\n\tOrdinal0 [0x0156D1C8+2085320]\n\tOrdinal0 [0x0156D308+2085640]\n\tOrdinal0 [0x015767F3+2123763]\n\tBaseThreadInitThunk [0x7499343D+18]\n\tRtlInitializeExceptionChain [0x771F9812+99]\n\tRtlInitializeExceptionChain [0x771F97E5+54]\n",
+      "time" : {
+        "start" : 1620035190638,
+        "stop" : 1620035190649,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "88b6c069f111aa3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620034989423,
+        "stop" : 1620034990874,
+        "duration" : 1451
+      }
+    }, {
+      "uid" : "5e2818854fa335c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620034288119,
+        "stop" : 1620034290161,
+        "duration" : 2042
+      }
+    }, {
+      "uid" : "a3f2462aeb2adf65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620033622995,
+        "stop" : 1620033623746,
+        "duration" : 751
+      }
+    }, {
+      "uid" : "e98ffb8109d9ac02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620033238411,
+        "stop" : 1620033239977,
+        "duration" : 1566
+      }
+    }, {
+      "uid" : "e8687d6cc846f31a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620033110667,
+        "stop" : 1620033112570,
+        "duration" : 1903
+      }
+    }, {
+      "uid" : "8d24b30e53c3a8b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620033050760,
+        "stop" : 1620033051577,
+        "duration" : 817
+      }
+    }, {
+      "uid" : "869cb539c280f293",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620032009161,
+        "stop" : 1620032009931,
+        "duration" : 770
+      }
+    }, {
+      "uid" : "bd5274c0844e83b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620028303494,
+        "stop" : 1620028304499,
+        "duration" : 1005
+      }
+    }, {
+      "uid" : "d1052256b7e09188",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620027992967,
+        "stop" : 1620027994768,
+        "duration" : 1801
+      }
+    }, {
+      "uid" : "9c2b1cbb59046ee0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620027841957,
+        "stop" : 1620027843964,
+        "duration" : 2007
+      }
+    }, {
+      "uid" : "7f6b54b69e4c5d4c",
+      "status" : "skipped",
+      "statusDetails" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:47646\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1620027787075,
+        "stop" : 1620027787081,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "3488408f99e093b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620027413607,
+        "stop" : 1620027416248,
+        "duration" : 2641
+      }
+    }, {
+      "uid" : "fb0b70a896cdd201",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620026914956,
+        "stop" : 1620026917624,
+        "duration" : 2668
+      }
+    }, {
+      "uid" : "b54ee2dfbb90d989",
+      "status" : "skipped",
+      "statusDetails" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:32624\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1620026857359,
+        "stop" : 1620026857374,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "be49f0ef9a2a4e74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620026685449,
+        "stop" : 1620026687390,
+        "duration" : 1941
+      }
+    }, {
+      "uid" : "dc94400870eee893",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620021955664,
+        "stop" : 1620021957923,
+        "duration" : 2259
+      }
+    }, {
+      "uid" : "805f37f5a50bbe86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620021040450,
+        "stop" : 1620021044568,
+        "duration" : 4118
+      }
+    }, {
+      "uid" : "93c91b658b96a779",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620020628383,
+        "stop" : 1620020630759,
+        "duration" : 2376
+      }
+    }, {
+      "uid" : "53dca4280b38519b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620019567174,
+        "stop" : 1620019570018,
+        "duration" : 2844
+      }
+    }, {
+      "uid" : "e8ef5d3d364e114f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620019512738,
+        "stop" : 1620019521657,
+        "duration" : 8919
+      }
+    }, {
+      "uid" : "a267b9200bdf4794",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620019332169,
+        "stop" : 1620019334584,
+        "duration" : 2415
+      }
+    }, {
+      "uid" : "49a57cc639fcda8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620019054191,
+        "stop" : 1620019056692,
+        "duration" : 2501
+      }
+    }, {
+      "uid" : "34db71df1494a311",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620018638824,
+        "stop" : 1620018640897,
+        "duration" : 2073
+      }
+    }, {
+      "uid" : "7369383567a210e3",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1620018441155,
+        "stop" : 1620018442925,
+        "duration" : 1770
+      }
+    }, {
+      "uid" : "95de960a69892a94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619962555190,
+        "stop" : 1619962557880,
+        "duration" : 2690
+      }
+    }, {
+      "uid" : "8eb8dec5e47cd822",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619962457776,
+        "stop" : 1619962459909,
+        "duration" : 2133
+      }
+    }, {
+      "uid" : "46c5f26ca8374408",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619961974814,
+        "stop" : 1619961985113,
+        "duration" : 10299
+      }
+    }, {
+      "uid" : "968312f084d4e466",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619961920693,
+        "stop" : 1619961923180,
+        "duration" : 2487
+      }
+    }, {
+      "uid" : "f4e7cbae857f8681",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619961851090,
+        "stop" : 1619961853468,
+        "duration" : 2378
+      }
+    }, {
+      "uid" : "a1d252f1ecc67d86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619960658800,
+        "stop" : 1619960659131,
+        "duration" : 331
+      }
+    }, {
+      "uid" : "d9e44496dce41cf5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619960466932,
+        "stop" : 1619960467233,
+        "duration" : 301
+      }
+    }, {
+      "uid" : "29d575b07f2f9c0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619960410664,
+        "stop" : 1619960410927,
+        "duration" : 263
+      }
+    }, {
+      "uid" : "1f1ef259fc63fcf1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619960271685,
+        "stop" : 1619960271966,
+        "duration" : 281
+      }
+    }, {
+      "uid" : "e9faac412b49ce75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619959736067,
+        "stop" : 1619959736627,
+        "duration" : 560
+      }
+    }, {
+      "uid" : "1a6d2bd75c33b519",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619959686160,
+        "stop" : 1619959686481,
+        "duration" : 321
+      }
+    }, {
+      "uid" : "1a879d6f49ad192f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619957475807,
+        "stop" : 1619957476680,
+        "duration" : 873
+      }
+    }, {
+      "uid" : "2e9336350b96a94d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619957136042,
+        "stop" : 1619957136239,
+        "duration" : 197
+      }
+    }, {
+      "uid" : "d869f205ac2a0472",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619957066168,
+        "stop" : 1619957066432,
+        "duration" : 264
+      }
+    }, {
+      "uid" : "3e418b8ad4b0c038",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619956894721,
+        "stop" : 1619956895438,
+        "duration" : 717
+      }
+    }, {
+      "uid" : "2acff15518381545",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"pageObject.homePage.txtSearchBox()\" because \"this.homePg\" is null",
+      "time" : {
+        "start" : 1619956558072,
+        "stop" : 1619956558774,
+        "duration" : 702
+      }
+    }, {
+      "uid" : "1b543e7b3df1aa56",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.By.findElements(org.openqa.selenium.SearchContext)\" because \"by\" is null",
+      "time" : {
+        "start" : 1619955169472,
+        "stop" : 1619955171041,
+        "duration" : 1569
+      }
+    }, {
+      "uid" : "92caea5cd2969e90",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)\" because \"this.searchContext\" is null",
+      "time" : {
+        "start" : 1619954863403,
+        "stop" : 1619954864049,
+        "duration" : 646
+      }
+    }, {
+      "uid" : "7941c72e44c90893",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)\" because \"this.searchContext\" is null",
+      "time" : {
+        "start" : 1619876449258,
+        "stop" : 1619876450464,
+        "duration" : 1206
+      }
+    }, {
+      "uid" : "cea16229edbe0677",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)\" because \"this.searchContext\" is null",
+      "time" : {
+        "start" : 1619876302387,
+        "stop" : 1619876303055,
+        "duration" : 668
+      }
+    }, {
+      "uid" : "92103a18e14055f9",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)\" because \"this.searchContext\" is null",
+      "time" : {
+        "start" : 1619876080249,
+        "stop" : 1619876080914,
+        "duration" : 665
+      }
+    }, {
+      "uid" : "9a49b0f79cfa37d1",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)\" because \"this.searchContext\" is null",
+      "time" : {
+        "start" : 1619876005509,
+        "stop" : 1619876006120,
+        "duration" : 611
+      }
+    }, {
+      "uid" : "1b419b96dd994219",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"pageObject.homePage.txtSearchBox()\" because \"this.homepage\" is null",
+      "time" : {
+        "start" : 1619875898436,
+        "stop" : 1619875898997,
+        "duration" : 561
+      }
+    }, {
+      "uid" : "aaeda9981b0e0924",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"pageObject.homePage.txtSearchBox()\" because \"this.homepage\" is null",
+      "time" : {
+        "start" : 1619875783752,
+        "stop" : 1619875784978,
+        "duration" : 1226
+      }
+    }, {
+      "uid" : "f25b9ca7eb7e8c6e",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"pageObject.homePage.txtSearchBox()\" because \"this.homepage\" is null",
+      "time" : {
+        "start" : 1619875606968,
+        "stop" : 1619875608243,
+        "duration" : 1275
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "3303eefe611ab66b",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/3303eefe611ab66b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620041591141,
+          "stop" : 1620041592526,
+          "duration" : 1385
+        }
+      }, {
+        "uid" : "ca7a8cc687e13269",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/ca7a8cc687e13269",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620041591141,
+          "stop" : 1620041592526,
+          "duration" : 1385
+        }
+      }, {
+        "uid" : "df58f043c271fa6e",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/df58f043c271fa6e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620041591141,
+          "stop" : 1620041592526,
+          "duration" : 1385
+        }
+      }, {
+        "uid" : "cb9f82d85370f587",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/cb9f82d85370f587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620041591141,
+          "stop" : 1620041592526,
+          "duration" : 1385
+        }
+      }, {
+        "uid" : "7dfdbe28dddaac53",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/7dfdbe28dddaac53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620041591141,
+          "stop" : 1620041592526,
+          "duration" : 1385
+        }
+      }, {
+        "uid" : "cc5899849324d5bb",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/cc5899849324d5bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620041591141,
+          "stop" : 1620041592526,
+          "duration" : 1385
+        }
+      }, {
+        "uid" : "228823539a8f3052",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/228823539a8f3052",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620041591141,
+          "stop" : 1620041592526,
+          "duration" : 1385
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "274f3cb0304a35ec.json",
+  "parameterValues" : [ ]
+}

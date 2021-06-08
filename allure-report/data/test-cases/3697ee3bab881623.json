@@ -1,0 +1,156 @@
+{
+  "uid" : "3697ee3bab881623",
+  "name" : "To verify user not able to SignIn with invalid credentials",
+  "fullName" : "pageTestCases.LoginTest.invalidSignIn",
+  "historyId" : "af4eb947f79d6d11833e155ce3d35b98",
+  "time" : {
+    "start" : 1620710958096,
+    "stop" : 1620710965822,
+    "duration" : 7726
+  },
+  "description" : "Test Case Description:To verify user not able to SignIn with Invalid Credentials",
+  "descriptionHtml" : "<p>Test Case Description:To verify user not able to SignIn with Invalid Credentials</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1620710953190,
+      "stop" : 1620710957958,
+      "duration" : 4768
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description:To verify user not able to SignIn with Invalid Credentials",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Method to open Signin form",
+      "time" : {
+        "start" : 1620710963032,
+        "stop" : 1620710963051,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to enter email or mobile no",
+      "time" : {
+        "start" : 1620710964503,
+        "stop" : 1620710964503,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to click on Continue",
+      "time" : {
+        "start" : 1620710964603,
+        "stop" : 1620710964603,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1620710966086,
+      "stop" : 1620710968297,
+      "duration" : 2211
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "invalidSignIn"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "7596@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check user not able to SignIn with invalid credentials"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3697ee3bab881623.json",
+  "parameterValues" : [ ]
+}

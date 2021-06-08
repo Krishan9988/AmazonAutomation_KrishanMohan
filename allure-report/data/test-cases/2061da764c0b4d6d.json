@@ -1,0 +1,100 @@
+{
+  "uid" : "2061da764c0b4d6d",
+  "name" : "To upload a file",
+  "fullName" : "pageTestCases.FileUploadTest.getFooterLinks",
+  "historyId" : "c893c42b7558507e41a3f19bac35ddac",
+  "time" : {
+    "start" : 1620480414724,
+    "stop" : 1620480428422,
+    "duration" : 13698
+  },
+  "description" : "Test Case Description:Verify to upload a file",
+  "descriptionHtml" : "<p>Test Case Description:Verify to upload a file</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialise",
+    "time" : {
+      "start" : 1620480405587,
+      "stop" : 1620480414446,
+      "duration" : 8859
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1620480428448,
+      "stop" : 1620480429137,
+      "duration" : 689
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.FileUploadTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.FileUploadTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getFooterLinks"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.FileUploadTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "8512@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To Upload a file"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2061da764c0b4d6d.json",
+  "parameterValues" : [ ]
+}

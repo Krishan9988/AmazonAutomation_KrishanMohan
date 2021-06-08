@@ -1,0 +1,60 @@
+{
+  "uid" : "a4516efe0f86a7e9",
+  "name" : "intializeBrowser",
+  "fullName" : "resources.baseClass.intializeBrowser",
+  "historyId" : "aff73d420927c96255d3c614cee56109",
+  "time" : {
+    "start" : 1619440571632,
+    "stop" : 1619440571685,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "resources.baseClass"
+  }, {
+    "name" : "testClass",
+    "value" : "resources.baseClass"
+  }, {
+    "name" : "testMethod",
+    "value" : "intializeBrowser"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "resources.baseClass"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "1800@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4516efe0f86a7e9.json",
+  "parameterValues" : [ ]
+}

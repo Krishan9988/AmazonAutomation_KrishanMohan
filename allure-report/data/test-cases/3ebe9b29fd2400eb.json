@@ -1,0 +1,804 @@
+{
+  "uid" : "3ebe9b29fd2400eb",
+  "name" : "To get all the Countries Name of footer",
+  "fullName" : "pageTestCases.FooterLinksTest.getFooterCountries",
+  "historyId" : "48f6432645516b1bfe7945e5856bff55",
+  "time" : {
+    "start" : 1620562470071,
+    "stop" : 1620562471791,
+    "duration" : 1720
+  },
+  "description" : "Test Case Description:Verify to get all the Countries Name of footer",
+  "descriptionHtml" : "<p>Test Case Description:Verify to get all the Countries Name of footer</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialise",
+    "time" : {
+      "start" : 1620562442662,
+      "stop" : 1620562469694,
+      "duration" : 27032
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description:Verify to get all the Countries Name of footer",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562470338,
+        "stop" : 1620562470522,
+        "duration" : 184
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562470523,
+        "stop" : 1620562470595,
+        "duration" : 72
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562470619,
+        "stop" : 1620562470673,
+        "duration" : 54
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562470674,
+        "stop" : 1620562470706,
+        "duration" : 32
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562470755,
+        "stop" : 1620562470789,
+        "duration" : 34
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562470789,
+        "stop" : 1620562470819,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562470842,
+        "stop" : 1620562470868,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562470868,
+        "stop" : 1620562470893,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562470909,
+        "stop" : 1620562470938,
+        "duration" : 29
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562470939,
+        "stop" : 1620562470965,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562470982,
+        "stop" : 1620562471008,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471008,
+        "stop" : 1620562471048,
+        "duration" : 40
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471065,
+        "stop" : 1620562471086,
+        "duration" : 21
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471086,
+        "stop" : 1620562471131,
+        "duration" : 45
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471145,
+        "stop" : 1620562471169,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471169,
+        "stop" : 1620562471197,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471215,
+        "stop" : 1620562471234,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471234,
+        "stop" : 1620562471254,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471268,
+        "stop" : 1620562471288,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471288,
+        "stop" : 1620562471306,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471328,
+        "stop" : 1620562471361,
+        "duration" : 33
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471361,
+        "stop" : 1620562471380,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471393,
+        "stop" : 1620562471415,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471415,
+        "stop" : 1620562471438,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471452,
+        "stop" : 1620562471474,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471474,
+        "stop" : 1620562471498,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471515,
+        "stop" : 1620562471537,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471538,
+        "stop" : 1620562471558,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471572,
+        "stop" : 1620562471596,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471596,
+        "stop" : 1620562471616,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471633,
+        "stop" : 1620562471672,
+        "duration" : 39
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471673,
+        "stop" : 1620562471692,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471706,
+        "stop" : 1620562471729,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471729,
+        "stop" : 1620562471750,
+        "duration" : 21
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To get Name of Countries present in footer",
+      "time" : {
+        "start" : 1620562471764,
+        "stop" : 1620562471784,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 35,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1620562471823,
+      "stop" : 1620562472533,
+      "duration" : 710
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.FooterLinksTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.FooterLinksTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getFooterCountries"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.FooterLinksTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "6396@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To get all the Countries Name of footer"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6c3f2afa136c17ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620478135963,
+        "stop" : 1620478136640,
+        "duration" : 677
+      }
+    }, {
+      "uid" : "61fdaff9369dcc5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620477873251,
+        "stop" : 1620477873729,
+        "duration" : 478
+      }
+    }, {
+      "uid" : "d29d9375c3132748",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620477778564,
+        "stop" : 1620477779212,
+        "duration" : 648
+      }
+    }, {
+      "uid" : "36827961ba8a92f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620477747975,
+        "stop" : 1620477748189,
+        "duration" : 214
+      }
+    }, {
+      "uid" : "36929fcec9b52d16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620477665870,
+        "stop" : 1620477666062,
+        "duration" : 192
+      }
+    }, {
+      "uid" : "94962f58524ca760",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: Unable to locate an element with the xpath expression ((//div[contains(@class,'navFooterLine navFooterLinkLine')])[2] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '((//div[contains(@class,'navFooterLine navFooterLinkLine')])[2]' is not a valid XPath expression.\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:8678}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 76054bdded12128c3a561180562298b3\n*** Element info: {Using=xpath, value=((//div[contains(@class,'navFooterLine navFooterLinkLine')])[2]}",
+      "time" : {
+        "start" : 1620477586270,
+        "stop" : 1620477586703,
+        "duration" : 433
+      }
+    }, {
+      "uid" : "c51ab010efb7b207",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: Unable to locate an element with the xpath expression ((//div[contains(@class,'navFooterLine navFooterLinkLine')]) because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '((//div[contains(@class,'navFooterLine navFooterLinkLine')])' is not a valid XPath expression.\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:8563}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 80b8cce889ef32cf8f0424cfc014b99a\n*** Element info: {Using=xpath, value=((//div[contains(@class,'navFooterLine navFooterLinkLine')])}",
+      "time" : {
+        "start" : 1620477518074,
+        "stop" : 1620477518537,
+        "duration" : 463
+      }
+    }, {
+      "uid" : "e06ae1709c7deaec",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: Unable to locate an element with the xpath expression ((//div[contains(@class,'navFooterLine navFooterLinkLine')])[2]/ul/li because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '((//div[contains(@class,'navFooterLine navFooterLinkLine')])[2]/ul/li' is not a valid XPath expression.\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:8125}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d7caabacc50f4c8d8432cc15cf1c7c5d\n*** Element info: {Using=xpath, value=((//div[contains(@class,'navFooterLine navFooterLinkLine')])[2]/ul/li}",
+      "time" : {
+        "start" : 1620477078779,
+        "stop" : 1620477079248,
+        "duration" : 469
+      }
+    }, {
+      "uid" : "c45b9587599e62e0",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: Unable to locate an element with the xpath expression ((//div[contains(@class,'navFooterLine navFooterLinkLine')])[2]/ul/li because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '((//div[contains(@class,'navFooterLine navFooterLinkLine')])[2]/ul/li' is not a valid XPath expression.\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:7852}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 3a597a0f206ea9f7bbdfca7090964b70\n*** Element info: {Using=xpath, value=((//div[contains(@class,'navFooterLine navFooterLinkLine')])[2]/ul/li}",
+      "time" : {
+        "start" : 1620476764147,
+        "stop" : 1620476764862,
+        "duration" : 715
+      }
+    }, {
+      "uid" : "e6ba6225ede86cf5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620476509979,
+        "stop" : 1620476510356,
+        "duration" : 377
+      }
+    }, {
+      "uid" : "735603c77a17c155",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620476441701,
+        "stop" : 1620476442140,
+        "duration" : 439
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "a9b5229c4361591",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/a9b5229c4361591",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620562470071,
+          "stop" : 1620562471791,
+          "duration" : 1720
+        }
+      }, {
+        "uid" : "1193ea9e74e0bf6b",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/1193ea9e74e0bf6b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620562470071,
+          "stop" : 1620562471791,
+          "duration" : 1720
+        }
+      }, {
+        "uid" : "93a2e85ab53c11b6",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/93a2e85ab53c11b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620562470071,
+          "stop" : 1620562471791,
+          "duration" : 1720
+        }
+      }, {
+        "uid" : "2323bfae159766ec",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/2323bfae159766ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620562470071,
+          "stop" : 1620562471791,
+          "duration" : 1720
+        }
+      }, {
+        "uid" : "d505cf13915a0afd",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/d505cf13915a0afd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620562470071,
+          "stop" : 1620562471791,
+          "duration" : 1720
+        }
+      }, {
+        "uid" : "2a3a4d9408599c07",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/2a3a4d9408599c07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620562470071,
+          "stop" : 1620562471791,
+          "duration" : 1720
+        }
+      }, {
+        "uid" : "c2be35197d87f8e2",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/c2be35197d87f8e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620562470071,
+          "stop" : 1620562471791,
+          "duration" : 1720
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3ebe9b29fd2400eb.json",
+  "parameterValues" : [ ]
+}

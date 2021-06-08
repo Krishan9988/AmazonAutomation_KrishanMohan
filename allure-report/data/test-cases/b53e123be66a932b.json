@@ -1,0 +1,220 @@
+{
+  "uid" : "b53e123be66a932b",
+  "name" : "To upload a file",
+  "fullName" : "pageTestCases.FileUploadTest.getFooterLinks",
+  "historyId" : "c893c42b7558507e41a3f19bac35ddac",
+  "time" : {
+    "start" : 1620480552985,
+    "stop" : 1620480565697,
+    "duration" : 12712
+  },
+  "description" : "Test Case Description:Verify to upload a file",
+  "descriptionHtml" : "<p>Test Case Description:Verify to upload a file</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialise",
+    "time" : {
+      "start" : 1620480543861,
+      "stop" : 1620480552701,
+      "duration" : 8840
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1620480565713,
+      "stop" : 1620480566347,
+      "duration" : 634
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.FileUploadTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.FileUploadTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getFooterLinks"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.FileUploadTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "8436@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To Upload a file"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2061da764c0b4d6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620480414724,
+        "stop" : 1620480428422,
+        "duration" : 13698
+      }
+    }, {
+      "uid" : "49b6e87f6b3231dc",
+      "status" : "broken",
+      "statusDetails" : "null value in entry: url=null",
+      "time" : {
+        "start" : 1620480277076,
+        "stop" : 1620480277283,
+        "duration" : 207
+      }
+    }, {
+      "uid" : "c486dfc249166b3b",
+      "status" : "broken",
+      "statusDetails" : "null value in entry: url=null",
+      "time" : {
+        "start" : 1620480024294,
+        "stop" : 1620480024613,
+        "duration" : 319
+      }
+    }, {
+      "uid" : "cfa644f2b0aaccf1",
+      "status" : "broken",
+      "statusDetails" : "null value in entry: url=null",
+      "time" : {
+        "start" : 1620479239654,
+        "stop" : 1620479239873,
+        "duration" : 219
+      }
+    }, {
+      "uid" : "c757a0d65ea24b7b",
+      "status" : "skipped",
+      "statusDetails" : "unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c8eca8a2fdf2f267fc1b4f4ebd942c41",
+      "time" : {
+        "start" : 1620478992765,
+        "stop" : 1620478992772,
+        "duration" : 7
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "651ff8346352d99e",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/651ff8346352d99e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620480552985,
+          "stop" : 1620480565697,
+          "duration" : 12712
+        }
+      }, {
+        "uid" : "dab2fb3d305227c9",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/dab2fb3d305227c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620480552985,
+          "stop" : 1620480565697,
+          "duration" : 12712
+        }
+      }, {
+        "uid" : "5166e40908d361e5",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/5166e40908d361e5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620480552985,
+          "stop" : 1620480565697,
+          "duration" : 12712
+        }
+      }, {
+        "uid" : "4babd3f9da1260d8",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/4babd3f9da1260d8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620480552985,
+          "stop" : 1620480565697,
+          "duration" : 12712
+        }
+      }, {
+        "uid" : "381d876e56429fca",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/381d876e56429fca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620480552985,
+          "stop" : 1620480565697,
+          "duration" : 12712
+        }
+      }, {
+        "uid" : "d93725248d0d6e29",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/d93725248d0d6e29",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620480552985,
+          "stop" : 1620480565697,
+          "duration" : 12712
+        }
+      }, {
+        "uid" : "b0abd7f090e7df58",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/b0abd7f090e7df58",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620480552985,
+          "stop" : 1620480565697,
+          "duration" : 12712
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b53e123be66a932b.json",
+  "parameterValues" : [ ]
+}

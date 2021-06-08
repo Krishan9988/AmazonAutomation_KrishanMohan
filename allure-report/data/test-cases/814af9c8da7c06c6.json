@@ -1,0 +1,126 @@
+{
+  "uid" : "814af9c8da7c06c6",
+  "name" : "To get all the links of footer",
+  "fullName" : "pageTestCases.FooterLinksTest.getFooterLinks",
+  "historyId" : "715db3d1e1462f6bce4fffc6bfed5cc3",
+  "time" : {
+    "start" : 1620475878394,
+    "stop" : 1620475878591,
+    "duration" : 197
+  },
+  "description" : "Test Case Description:Verify to get text of all links in footer",
+  "descriptionHtml" : "<p>Test Case Description:Verify to get text of all links in footer</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialise",
+    "time" : {
+      "start" : 1620475869429,
+      "stop" : 1620475878006,
+      "duration" : 8577
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description:Verify to get text of all links in footer",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "To get all links of footer",
+      "time" : {
+        "start" : 1620475878495,
+        "stop" : 1620475878498,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1620475878624,
+      "stop" : 1620475879460,
+      "duration" : 836
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.FooterLinksTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.FooterLinksTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getFooterLinks"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.FooterLinksTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "6852@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To know the text of footer"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "814af9c8da7c06c6.json",
+  "parameterValues" : [ ]
+}

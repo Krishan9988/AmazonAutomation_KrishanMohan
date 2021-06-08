@@ -1,0 +1,125 @@
+{
+  "uid" : "9986033619734fbd",
+  "name" : "Verify Quantity drop down is displayed and user is able to select values",
+  "fullName" : "pageTestCases.cartTest.searchedItemsDisplayed",
+  "historyId" : "42d38cea437934daf8ee11aa4c3d23cb",
+  "time" : {
+    "start" : 1620190592299,
+    "stop" : 1620190633504,
+    "duration" : 41205
+  },
+  "description" : "Test Case Description:Selected value should be displayed after selection of Quantity drop down",
+  "descriptionHtml" : "<p>Test Case Description:Selected value should be displayed after selection of Quantity drop down</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialise",
+    "time" : {
+      "start" : 1620190574655,
+      "stop" : 1620190592041,
+      "duration" : 17386
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description:Selected value should be displayed after selection of Quantity drop down",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Method for Entering data in Search Text Box",
+      "time" : {
+        "start" : 1620190592333,
+        "stop" : 1620190592335,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for Searchbox",
+      "time" : {
+        "start" : 1620190592521,
+        "stop" : 1620190592521,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.cartTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.cartTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchedItemsDisplayed"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.cartTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "6160@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check user is able to select value from Quantity drop down"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9986033619734fbd.json",
+  "parameterValues" : [ ]
+}

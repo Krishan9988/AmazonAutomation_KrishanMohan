@@ -1,0 +1,848 @@
+{
+  "uid" : "9fa5253a726eddb4",
+  "name" : "To verify on searching list of search items displayed",
+  "fullName" : "pageTestCases.homeTest.searchedItemsDisplayed",
+  "historyId" : "a76ebb5462eb8e9f2cc7da7224a808c4",
+  "time" : {
+    "start" : 1620121947268,
+    "stop" : 1620121953078,
+    "duration" : 5810
+  },
+  "description" : "Test Case Description:Verify Searched items displayed",
+  "descriptionHtml" : "<p>Test Case Description:Verify Searched items displayed</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialise",
+    "time" : {
+      "start" : 1620121937171,
+      "stop" : 1620121946869,
+      "duration" : 9698
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description:Verify Searched items displayed",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Method for Entering data in Search Text Box",
+      "time" : {
+        "start" : 1620121947307,
+        "stop" : 1620121947309,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for Searchbox",
+      "time" : {
+        "start" : 1620121947491,
+        "stop" : 1620121947491,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121949901,
+        "stop" : 1620121949901,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121950058,
+        "stop" : 1620121950058,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121950235,
+        "stop" : 1620121950236,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121950969,
+        "stop" : 1620121950969,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951023,
+        "stop" : 1620121951023,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951039,
+        "stop" : 1620121951039,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951080,
+        "stop" : 1620121951080,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951104,
+        "stop" : 1620121951104,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951158,
+        "stop" : 1620121951159,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951176,
+        "stop" : 1620121951176,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951215,
+        "stop" : 1620121951215,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951234,
+        "stop" : 1620121951234,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951295,
+        "stop" : 1620121951295,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951332,
+        "stop" : 1620121951332,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951432,
+        "stop" : 1620121951432,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951469,
+        "stop" : 1620121951469,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951527,
+        "stop" : 1620121951527,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951569,
+        "stop" : 1620121951569,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951668,
+        "stop" : 1620121951668,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951749,
+        "stop" : 1620121951749,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951868,
+        "stop" : 1620121951868,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121951913,
+        "stop" : 1620121951913,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952007,
+        "stop" : 1620121952007,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952038,
+        "stop" : 1620121952039,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952169,
+        "stop" : 1620121952169,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952193,
+        "stop" : 1620121952193,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952245,
+        "stop" : 1620121952245,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952260,
+        "stop" : 1620121952260,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952341,
+        "stop" : 1620121952341,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952373,
+        "stop" : 1620121952373,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952428,
+        "stop" : 1620121952428,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952448,
+        "stop" : 1620121952448,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952505,
+        "stop" : 1620121952505,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952523,
+        "stop" : 1620121952523,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952619,
+        "stop" : 1620121952619,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952660,
+        "stop" : 1620121952660,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952775,
+        "stop" : 1620121952775,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952842,
+        "stop" : 1620121952842,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952940,
+        "stop" : 1620121952940,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121952972,
+        "stop" : 1620121952972,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To see searched items list",
+      "time" : {
+        "start" : 1620121953036,
+        "stop" : 1620121953036,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 43,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.homeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.homeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchedItemsDisplayed"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.homeTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "6764@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check user is able to search item and see the result"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "1517b8391b42f4c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620045355362,
+        "stop" : 1620045359244,
+        "duration" : 3882
+      }
+    }, {
+      "uid" : "527f9949a7bc8331",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620045082046,
+        "stop" : 1620045086989,
+        "duration" : 4943
+      }
+    }, {
+      "uid" : "b24bad323aff1d4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620045001106,
+        "stop" : 1620045014940,
+        "duration" : 13834
+      }
+    }, {
+      "uid" : "3cc8a7f97c7cffd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620044192797,
+        "stop" : 1620044205722,
+        "duration" : 12925
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "d4fe2cece017a3d8",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/d4fe2cece017a3d8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620121947268,
+          "stop" : 1620121953078,
+          "duration" : 5810
+        }
+      }, {
+        "uid" : "a02e57e31adceedc",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/a02e57e31adceedc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620121947268,
+          "stop" : 1620121953078,
+          "duration" : 5810
+        }
+      }, {
+        "uid" : "fadfe52ef223c797",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/fadfe52ef223c797",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620121947268,
+          "stop" : 1620121953078,
+          "duration" : 5810
+        }
+      }, {
+        "uid" : "a6e83544d24fbd19",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/a6e83544d24fbd19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620121947268,
+          "stop" : 1620121953078,
+          "duration" : 5810
+        }
+      }, {
+        "uid" : "dae1a4b99079945a",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/dae1a4b99079945a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620121947268,
+          "stop" : 1620121953078,
+          "duration" : 5810
+        }
+      }, {
+        "uid" : "443413691c791cbf",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/443413691c791cbf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620121947268,
+          "stop" : 1620121953078,
+          "duration" : 5810
+        }
+      }, {
+        "uid" : "fbef544aeed87017",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/fbef544aeed87017",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620121947268,
+          "stop" : 1620121953078,
+          "duration" : 5810
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9fa5253a726eddb4.json",
+  "parameterValues" : [ ]
+}

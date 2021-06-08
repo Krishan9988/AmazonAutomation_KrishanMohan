@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:8080/",
+  "buildOrder" : 25,
+  "buildName" : "${JENKINS_HOME}/AmazonAutomation_KrishanMohan #25",
+  "buildUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure"
+} ]

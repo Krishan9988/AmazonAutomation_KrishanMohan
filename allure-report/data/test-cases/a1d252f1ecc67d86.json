@@ -1,0 +1,110 @@
+{
+  "uid" : "a1d252f1ecc67d86",
+  "name" : "To verify on entering data in Search text box than suggested item displayed",
+  "fullName" : "pageTestCases.homeTest.searchBoxSuggestedItemsDisplayed",
+  "historyId" : "865a0fffceee2b449ce77cd78387b880",
+  "time" : {
+    "start" : 1619960658800,
+    "stop" : 1619960659131,
+    "duration" : 331
+  },
+  "description" : "Test Case Description:Verify Search text box suggested items",
+  "descriptionHtml" : "<p>Test Case Description:Verify Search text box suggested items</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialise",
+    "time" : {
+      "start" : 1619960649793,
+      "stop" : 1619960657910,
+      "duration" : 8117
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description:Verify Search text box suggested items",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Method for Entering data in Search Text Box",
+      "time" : {
+        "start" : 1619960658846,
+        "stop" : 1619960658851,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.homeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.homeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchBoxSuggestedItemsDisplayed"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.homeTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "5844@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check Search text box showing suggested item list on entering data"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1d252f1ecc67d86.json",
+  "parameterValues" : [ ]
+}

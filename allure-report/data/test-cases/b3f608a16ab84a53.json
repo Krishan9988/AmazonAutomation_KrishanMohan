@@ -1,0 +1,402 @@
+{
+  "uid" : "b3f608a16ab84a53",
+  "name" : "To verify user able to SignIn successfully",
+  "fullName" : "pageTestCases.LoginTest.signIn",
+  "historyId" : "4bd51041ea6e7ec286b3e651b6426e56",
+  "time" : {
+    "start" : 1620709823877,
+    "stop" : 1620709833802,
+    "duration" : 9925
+  },
+  "description" : "Test Case Description:To verify user able to SignIn successfully",
+  "descriptionHtml" : "<p>Test Case Description:To verify user able to SignIn successfully</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1620709808830,
+      "stop" : 1620709814278,
+      "duration" : 5448
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description:To verify user able to SignIn successfully",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Method to open Signin form",
+      "time" : {
+        "start" : 1620709826980,
+        "stop" : 1620709826981,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to enter email or mobile no",
+      "time" : {
+        "start" : 1620709827872,
+        "stop" : 1620709827872,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to click on Continue",
+      "time" : {
+        "start" : 1620709828008,
+        "stop" : 1620709828008,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to enter password",
+      "time" : {
+        "start" : 1620709828976,
+        "stop" : 1620709828976,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to click on SignIn",
+      "time" : {
+        "start" : 1620709829145,
+        "stop" : 1620709829145,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to get login user text",
+      "time" : {
+        "start" : 1620709829356,
+        "stop" : 1620709829356,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1620709839746,
+      "stop" : 1620709840517,
+      "duration" : 771
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "signIn"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "5636@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check user able to SignIn"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "69c0c25d5d1a6f21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564113845,
+        "stop" : 1620564122178,
+        "duration" : 8333
+      }
+    }, {
+      "uid" : "fa9f643bb3efb951",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563514956,
+        "stop" : 1620563536328,
+        "duration" : 21372
+      }
+    }, {
+      "uid" : "1b81af8fc9c6a56b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620394059983,
+        "stop" : 1620394068388,
+        "duration" : 8405
+      }
+    }, {
+      "uid" : "8e58dbd4b4886846",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620393784538,
+        "stop" : 1620393793567,
+        "duration" : 9029
+      }
+    }, {
+      "uid" : "df485a0829330005",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620391736990,
+        "stop" : 1620391743638,
+        "duration" : 6648
+      }
+    }, {
+      "uid" : "66b6f1447eca1b60",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[contains(@id,'nav-link-accountList')]\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:4467}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c834710b5fd42f0f5aa0ad2d9ad3bc3b\n*** Element info: {Using=xpath, value=//a[contains(@id,'nav-link-accountList')]}",
+      "time" : {
+        "start" : 1620391645905,
+        "stop" : 1620391655975,
+        "duration" : 10070
+      }
+    }, {
+      "uid" : "98a4f7821643ab3e",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[contains(@id,'nav-link-accountList')]\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:4429}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 0e6cf192e7f30dfe230508b1105df489\n*** Element info: {Using=xpath, value=//a[contains(@id,'nav-link-accountList')]}",
+      "time" : {
+        "start" : 1620391558367,
+        "stop" : 1620391568497,
+        "duration" : 10130
+      }
+    }, {
+      "uid" : "b1d3d2dd623e105c",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"pageObject.LoginPage.openSignIn()\" because \"this.LoginPg\" is null",
+      "time" : {
+        "start" : 1620391504319,
+        "stop" : 1620391504333,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "816e35912ef5b856",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[contains(@id,'nav-link-accountList')]\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:4309}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 59e0242c8b42baa7710a83370dd70b89\n*** Element info: {Using=xpath, value=//a[contains(@id,'nav-link-accountList')]}",
+      "time" : {
+        "start" : 1620390349992,
+        "stop" : 1620390360078,
+        "duration" : 10086
+      }
+    }, {
+      "uid" : "895e10687547b2a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620390203780,
+        "stop" : 1620390212506,
+        "duration" : 8726
+      }
+    }, {
+      "uid" : "5c4937e05dc3423b",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[contains(@id,'nav-link-accountList')]\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:3987}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 1fab96e6582efc3024c022563a93e359\n*** Element info: {Using=xpath, value=//a[contains(@id,'nav-link-accountList')]}",
+      "time" : {
+        "start" : 1620390120665,
+        "stop" : 1620390130737,
+        "duration" : 10072
+      }
+    }, {
+      "uid" : "c85ee8f2c9fc323a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620390031773,
+        "stop" : 1620390041641,
+        "duration" : 9868
+      }
+    }, {
+      "uid" : "fc00897b867de389",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620389567250,
+        "stop" : 1620389597680,
+        "duration" : 30430
+      }
+    }, {
+      "uid" : "a174e2d92fd33dff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620389315995,
+        "stop" : 1620389324771,
+        "duration" : 8776
+      }
+    }, {
+      "uid" : "46b9aa4962691e3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620389180049,
+        "stop" : 1620389189671,
+        "duration" : 9622
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "2f7860ef686567df",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/2f7860ef686567df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620709823877,
+          "stop" : 1620709833802,
+          "duration" : 9925
+        }
+      }, {
+        "uid" : "36a136a6ea950559",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/36a136a6ea950559",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620709823877,
+          "stop" : 1620709833802,
+          "duration" : 9925
+        }
+      }, {
+        "uid" : "6607c054dd804ad3",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/6607c054dd804ad3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620709823877,
+          "stop" : 1620709833802,
+          "duration" : 9925
+        }
+      }, {
+        "uid" : "cb74dbd2b0999278",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/cb74dbd2b0999278",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620709823877,
+          "stop" : 1620709833802,
+          "duration" : 9925
+        }
+      }, {
+        "uid" : "14012da0e5d61013",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/14012da0e5d61013",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620709823877,
+          "stop" : 1620709833802,
+          "duration" : 9925
+        }
+      }, {
+        "uid" : "b8e5ec1fc7f4135a",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/b8e5ec1fc7f4135a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620564113845,
+          "stop" : 1620564122178,
+          "duration" : 8333
+        }
+      }, {
+        "uid" : "2e3c98e99e557c62",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/2e3c98e99e557c62",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620564113845,
+          "stop" : 1620564122178,
+          "duration" : 8333
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b3f608a16ab84a53.json",
+  "parameterValues" : [ ]
+}

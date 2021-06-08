@@ -1,0 +1,197 @@
+{
+  "uid" : "1bb4a31d0a53e2d5",
+  "name" : "tearDown",
+  "fullName" : "pageTestCases.cartTest.tearDown",
+  "historyId" : "d891516d9183cd8633a4aa841ffd1656",
+  "time" : {
+    "start" : 1620207774041,
+    "stop" : 1620207774043,
+    "duration" : 2
+  },
+  "status" : "failed",
+  "statusMessage" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+  "statusTrace" : "java.lang.AssertionError: The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:31)\r\n\tat pageTestCases.cartTest.tearDown(cartTest.java:111)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:564)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:61)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:366)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:320)\r\n\tat org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:617)\r\n\tat org.testng.TestRunner.afterRun(TestRunner.java:847)\r\n\tat org.testng.TestRunner.run(TestRunner.java:588)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1140)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1069)\r\n\tat org.testng.TestNG.run(TestNG.java:1037)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1620207774029,
+      "stop" : 1620207774033,
+      "duration" : 4
+    },
+    "description" : "",
+    "status" : "failed",
+    "statusMessage" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+    "statusTrace" : "java.lang.AssertionError: The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:31)\r\n\tat pageTestCases.cartTest.tearDown(cartTest.java:111)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:564)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:61)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:366)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:320)\r\n\tat org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:617)\r\n\tat org.testng.TestRunner.afterRun(TestRunner.java:847)\r\n\tat org.testng.TestRunner.run(TestRunner.java:588)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1140)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1069)\r\n\tat org.testng.TestNG.run(TestNG.java:1037)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.cartTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.cartTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "tearDown"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.cartTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "1944@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "AS_ID",
+    "value" : "-1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b54d3a5bce6d4bb4",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tLinkDevice chekcbox selected expected [true] but found [false],\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+      "time" : {
+        "start" : 1620200784952,
+        "stop" : 1620200784953,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3832d9c63474ae90",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tGift chekcbox not selected expected [true] but found [false]",
+      "time" : {
+        "start" : 1620200183587,
+        "stop" : 1620200183589,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "3ac542bd07ef8dd4",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [true] but found [false]",
+      "time" : {
+        "start" : 1620199993788,
+        "stop" : 1620199993789,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 8,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "202bba7069585b39",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/202bba7069585b39",
+        "status" : "failed",
+        "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+        "time" : {
+          "start" : 1620207774041,
+          "stop" : 1620207774043,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "a5a183c0ad210f0b",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/a5a183c0ad210f0b",
+        "status" : "failed",
+        "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+        "time" : {
+          "start" : 1620207774041,
+          "stop" : 1620207774043,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "6e1dd737bcffe8f7",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/6e1dd737bcffe8f7",
+        "status" : "failed",
+        "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+        "time" : {
+          "start" : 1620207774041,
+          "stop" : 1620207774043,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "d41427a5c17e23b1",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/d41427a5c17e23b1",
+        "status" : "failed",
+        "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+        "time" : {
+          "start" : 1620207774041,
+          "stop" : 1620207774043,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "cfa93ea196e9584e",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/cfa93ea196e9584e",
+        "status" : "failed",
+        "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+        "time" : {
+          "start" : 1620207774041,
+          "stop" : 1620207774043,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "1484280d44989992",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/1484280d44989992",
+        "status" : "failed",
+        "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+        "time" : {
+          "start" : 1620207774041,
+          "stop" : 1620207774043,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "eb788a37d50ac992",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/eb788a37d50ac992",
+        "status" : "failed",
+        "statusDetails" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+        "time" : {
+          "start" : 1620207774041,
+          "stop" : 1620207774043,
+          "duration" : 2
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1bb4a31d0a53e2d5.json",
+  "parameterValues" : [ ]
+}

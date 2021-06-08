@@ -1,0 +1,258 @@
+{
+  "uid" : "466989529f72cb55",
+  "name" : "tearDown",
+  "fullName" : "pageTestCases.LoginTest.tearDown",
+  "historyId" : "324f71a02b40b00d36b3c4f39e2c59cf",
+  "time" : {
+    "start" : 1620732796295,
+    "stop" : 1620732796296,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "The following asserts failed:\n\tTry to login with invalid email/phonenumber expected [false] but found [true]",
+  "statusTrace" : "java.lang.AssertionError: The following asserts failed:\n\tTry to login with invalid email/phonenumber expected [false] but found [true]\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:31)\r\n\tat pageTestCases.LoginTest.tearDown(LoginTest.java:98)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)\r\n\tat org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)\r\n\tat org.testng.TestRunner.afterRun(TestRunner.java:877)\r\n\tat org.testng.TestRunner.run(TestRunner.java:599)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:377)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:276)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1134)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1063)\r\n\tat org.testng.TestNG.run(TestNG.java:1031)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)\r\n\tat org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1620732773479,
+      "stop" : 1620732783696,
+      "duration" : 10217
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1620732796286,
+      "stop" : 1620732796291,
+      "duration" : 5
+    },
+    "description" : "",
+    "status" : "failed",
+    "statusMessage" : "The following asserts failed:\n\tTry to login with invalid email/phonenumber expected [false] but found [true]",
+    "statusTrace" : "java.lang.AssertionError: The following asserts failed:\n\tTry to login with invalid email/phonenumber expected [false] but found [true]\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)\r\n\tat org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:31)\r\n\tat pageTestCases.LoginTest.tearDown(LoginTest.java:98)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)\r\n\tat org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)\r\n\tat org.testng.TestRunner.afterRun(TestRunner.java:877)\r\n\tat org.testng.TestRunner.run(TestRunner.java:599)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:377)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:276)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1134)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1063)\r\n\tat org.testng.TestNG.run(TestNG.java:1031)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)\r\n\tat org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)\r\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "tearDown"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "6544@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "AS_ID",
+    "value" : "-1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "62bf8e4bea07eada",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\tTry to login with invalid email/phonenumber expected [false] but found [true]",
+      "time" : {
+        "start" : 1620718411975,
+        "stop" : 1620718411977,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6969762cc55ba10b",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620714424439,
+        "stop" : 1620714424441,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "5a0681758074f964",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620714214678,
+        "stop" : 1620714214679,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "bfbc4388a1a15a43",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620714046592,
+        "stop" : 1620714046594,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "8b979e06454c0b61",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620712378523,
+        "stop" : 1620712378524,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "13dc7e72da65a849",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620712191045,
+        "stop" : 1620712191046,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "48d63e64501fe90a",
+      "status" : "failed",
+      "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "time" : {
+        "start" : 1620711546942,
+        "stop" : 1620711546943,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f94a7ef3b03929cb",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.quit()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1620391504425,
+        "stop" : 1620391504429,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 5,
+        "broken" : 3,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "5282e8f3a1610fd2",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/5282e8f3a1610fd2",
+        "status" : "failed",
+        "statusDetails" : "The following asserts failed:\n\tTry to login with invalid email/phonenumber expected [false] but found [true]",
+        "time" : {
+          "start" : 1620732796295,
+          "stop" : 1620732796296,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "87eb291d97961d26",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/87eb291d97961d26",
+        "status" : "failed",
+        "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+        "time" : {
+          "start" : 1620712378523,
+          "stop" : 1620712378524,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "38652908e95404e",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/38652908e95404e",
+        "status" : "failed",
+        "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+        "time" : {
+          "start" : 1620711546942,
+          "stop" : 1620711546943,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "e6ae9bc863ff0de4",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/e6ae9bc863ff0de4",
+        "status" : "failed",
+        "statusDetails" : "The following asserts failed:\n\texpected [false] but found [true]",
+        "time" : {
+          "start" : 1620711546942,
+          "stop" : 1620711546943,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "b35789a26859295b",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/b35789a26859295b",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.quit()\" because \"this.driver\" is null",
+        "time" : {
+          "start" : 1620391504425,
+          "stop" : 1620391504429,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "266aa582afc9a34f",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/266aa582afc9a34f",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.quit()\" because \"this.driver\" is null",
+        "time" : {
+          "start" : 1620391504425,
+          "stop" : 1620391504429,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "8f72fcfa874fa83",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/8f72fcfa874fa83",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.quit()\" because \"this.driver\" is null",
+        "time" : {
+          "start" : 1620391504425,
+          "stop" : 1620391504429,
+          "duration" : 4
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "466989529f72cb55.json",
+  "parameterValues" : [ ]
+}

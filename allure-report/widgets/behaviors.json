@@ -1,0 +1,114 @@
+{
+  "total" : 39,
+  "items" : [ {
+    "uid" : "3375e00f353570b7d59f1fd710b7b9b4",
+    "name" : "Story Name: To check user not able to SignIn with invalid credentials",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "ae32903cebfbcb5cb27fc416da9ea32d",
+    "name" : "Story Name: To check user is able to see Add item into Cart than see Added to Cart text",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "5721694a2e989f992a17dbe6adf51d36",
+    "name" : "Story Name: To check user is able to see Cart count 1 or more than 1",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "6eab235698b850653ac2ff636b6fec28",
+    "name" : "Story Name: To check Item price is same after adding to cart",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "3d460384ced69970ab329e3a7980b1dc",
+    "name" : "Story Name: To check Item price getting increase on increasing quantity",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "6aa63b79620a5d7d071223f64f2a4b96",
+    "name" : "Story Name: To check SearchBox button visible on Home Page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "385b57123662977f6f9be731547a338a",
+    "name" : "Story Name: To check Search text box showing suggested item list on entering data",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "7802abe186997baea77499765b00b4ce",
+    "name" : "Story Name: To check user is able to search item using Shop by Department option",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "e0fa9c522366a0f4707539322f0099af",
+    "name" : "Story Name: To check user is able to search item and see the result",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "0b348a8446d9b83fb2c08fdc54428cc9",
+    "name" : "Story Name: To check user is able check the checkbox",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

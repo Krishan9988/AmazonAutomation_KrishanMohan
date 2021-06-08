@@ -1,0 +1,324 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "org.json.simple.parser.ParseException",
+      "children" : [ {
+        "name" : "intializeBrowser",
+        "uid" : "3813f8bd5f7b5e32",
+        "parentUid" : "246dea3ba0cec79d20fb116507e1ff90",
+        "status" : "broken",
+        "time" : {
+          "start" : 1619428514361,
+          "stop" : 1619428514404,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "intialise",
+        "uid" : "a5ad430f83f2395c",
+        "parentUid" : "246dea3ba0cec79d20fb116507e1ff90",
+        "status" : "broken",
+        "time" : {
+          "start" : 1619671548083,
+          "stop" : 1619671548087,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "246dea3ba0cec79d20fb116507e1ff90"
+    }, {
+      "name" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "children" : [ {
+        "name" : "intialisedriver",
+        "uid" : "f812c8315933f84f",
+        "parentUid" : "1230354f181020ae996244e4824ec753",
+        "status" : "broken",
+        "time" : {
+          "start" : 1619582270820,
+          "stop" : 1619582270825,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1230354f181020ae996244e4824ec753"
+    }, {
+      "name" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:25772\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "children" : [ {
+        "name" : "intialise",
+        "uid" : "986f566c91ce9fce",
+        "parentUid" : "eae9ea4becaf14130b04dcd01cb896d4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1620041275090,
+          "stop" : 1620041275095,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eae9ea4becaf14130b04dcd01cb896d4"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:2871}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 916c454ebc426b462775c70a87e7190b\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "children" : [ {
+        "name" : "Verify Added to Cart text displayed",
+        "uid" : "459a0f520ba53643",
+        "parentUid" : "6d3e4d97d96b3dd0a9e2b671582036a3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1620216196133,
+          "stop" : 1620216231417,
+          "duration" : 35284
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6d3e4d97d96b3dd0a9e2b671582036a3"
+    }, {
+      "name" : "No backends were found. Please make sure you have a backend module on your CLASSPATH.",
+      "children" : [ {
+        "name" : "setUpClass",
+        "uid" : "7c3c6a83794c3570",
+        "parentUid" : "1d8f0d6930e944cf0d6815301226dc5c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1620385027697,
+          "stop" : 1620385027703,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1d8f0d6930e944cf0d6815301226dc5c"
+    }, {
+      "name" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "children" : [ {
+        "name" : "tearDownClass",
+        "uid" : "453a0f735c6abae5",
+        "parentUid" : "9ef5cd1abc79ae6cc99bd24371c5fb47",
+        "status" : "broken",
+        "time" : {
+          "start" : 1620385027955,
+          "stop" : 1620385027956,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9ef5cd1abc79ae6cc99bd24371c5fb47"
+    }, {
+      "name" : "unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '192.168.1.17', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9898}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c8eca8a2fdf2f267fc1b4f4ebd942c41",
+      "children" : [ {
+        "name" : "intialise",
+        "uid" : "936e37ececc6a9",
+        "parentUid" : "2dc3f0d6e294fab59b5ea6f212914ea1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1620478992718,
+          "stop" : 1620478992723,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2dc3f0d6e294fab59b5ea6f212914ea1"
+    }, {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "tearDown",
+        "uid" : "e0ad75720184ec0b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1620563537251,
+          "stop" : 1620563537253,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tearDown",
+        "uid" : "65070bca0346101f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1620565321679,
+          "stop" : 1620565321682,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setup",
+        "uid" : "1132d66ebb11837d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1620726120960,
+          "stop" : 1620726120966,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@id='huc-v2-order-row-confirm-text']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 573123f272791b211b5f221b587831de\n*** Element info: {Using=xpath, value=//div[@id='huc-v2-order-row-confirm-text']}",
+      "children" : [ {
+        "name" : "Verify Cart Count displayed",
+        "uid" : "947871ce62d2f46d",
+        "parentUid" : "3803ed3467e86cfeae09032cb39bd292",
+        "status" : "broken",
+        "time" : {
+          "start" : 1620563860508,
+          "stop" : 1620563890184,
+          "duration" : 29676
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3803ed3467e86cfeae09032cb39bd292"
+    }, {
+      "name" : "element not interactable\n  (Session info: chrome=90.0.4430.93)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7913b0a5e3e315e051925289d74b35cb",
+      "children" : [ {
+        "name" : "Verify price getting increased accordingly in cart when user increasing the quantity",
+        "uid" : "810d3e831b0f4ff4",
+        "parentUid" : "59b213bf999a476a69de898c2f44db0b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1620563899307,
+          "stop" : 1620563918395,
+          "duration" : 19088
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "59b213bf999a476a69de898c2f44db0b"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@id='priceblock_dealprice']\"}\n  (Session info: chrome=90.0.4430.93)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '172.20.10.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Users\\ricky\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:9414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fa19a0f5d8882e014a4afdc2407cd867\n*** Element info: {Using=xpath, value=//span[@id='priceblock_dealprice']}",
+      "children" : [ {
+        "name" : "Verify Item price is same after adding to cart",
+        "uid" : "5c8b3d70df0b92ec",
+        "parentUid" : "c0e86a610eb9d85a8423400415ec822d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1620563925755,
+          "stop" : 1620563955085,
+          "duration" : 29330
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c0e86a610eb9d85a8423400415ec822d"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "The following asserts failed:\n\tOne Assist Warranty chekcbox selected expected [true] but found [false]",
+      "children" : [ {
+        "name" : "tearDown",
+        "uid" : "1bb4a31d0a53e2d5",
+        "parentUid" : "12cfc389e502f0616ec9f776b262b5f0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620207774041,
+          "stop" : 1620207774043,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "12cfc389e502f0616ec9f776b262b5f0"
+    }, {
+      "name" : "The following asserts failed:\n\tChecking the both price are different expected [778.00] but found [389.00]",
+      "children" : [ {
+        "name" : "teardown",
+        "uid" : "34dc00798fb338e9",
+        "parentUid" : "510c8e5423eabc5ff523e08bda9694da",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620280638710,
+          "stop" : 1620280638712,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "510c8e5423eabc5ff523e08bda9694da"
+    }, {
+      "name" : "The following asserts failed:\n\texpected [false] but found [true]",
+      "children" : [ {
+        "name" : "asserting",
+        "uid" : "d8fdfd7f0cbd8677",
+        "parentUid" : "e35a41414b42be119df5606611735d01",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620711913158,
+          "stop" : 1620711913160,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e35a41414b42be119df5606611735d01"
+    }, {
+      "name" : "The following asserts failed:\n\tTry to login with invalid email/phonenumber expected [false] but found [true]",
+      "children" : [ {
+        "name" : "tearDown",
+        "uid" : "466989529f72cb55",
+        "parentUid" : "6d69a1d7b259b4a68a78038d8723b3d5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620732796295,
+          "stop" : 1620732796296,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6d69a1d7b259b4a68a78038d8723b3d5"
+    }, {
+      "name" : "Try to login with invalid email/phonenumber expected [false] but found [true]",
+      "children" : [ {
+        "name" : "To verify user not able to SignIn with invalid credentials",
+        "uid" : "ddd6341de0a2e6b2",
+        "parentUid" : "c4717810a7696706bf2cadff0018c4c3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620734114302,
+          "stop" : 1620734124497,
+          "duration" : 10195
+        },
+        "flaky" : true,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c4717810a7696706bf2cadff0018c4c3"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

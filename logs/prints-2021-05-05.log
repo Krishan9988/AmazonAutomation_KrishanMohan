@@ -1,0 +1,16 @@
+16:23:25.003 [main] INFO  pageTestCases.cartTest - Browser open
+17:03:23.296 [main] INFO  pageTestCases.homeTest - Browser open
+17:09:36.856 [main] INFO  pageTestCases.homeTest - Browser open
+17:09:58.792 [main] DEBUG pageTestCases.homeTest - Added to Cart
+17:16:47.841 [main] INFO  pageTestCases.homeTest - Browser open
+17:17:07.268 [main] DEBUG pageTestCases.homeTest - Added to Cart
+17:17:07.319 [main] DEBUG pageTestCases.homeTest - 1
+17:17:09.896 [main] INFO  pageTestCases.homeTest - Browser open
+17:17:29.452 [main] DEBUG pageTestCases.homeTest - Added to Cart
+17:30:13.703 [main] INFO  pageTestCases.homeTest - Browser open
+17:30:47.379 [main] INFO  pageTestCases.homeTest - Browser open
+17:31:15.578 [main] DEBUG pageTestCases.homeTest - Added to Cart
+17:32:43.417 [main] INFO  pageTestCases.homeTest - Browser open
+17:33:09.660 [main] INFO  pageTestCases.homeTest - Browser open
+17:53:14.975 [main] INFO  pageTestCases.homeTest - Browser open
+17:53:32.591 [main] DEBUG pageTestCases.homeTest - Count displayed for Cart 1

@@ -1,0 +1,242 @@
+{
+  "uid" : "453a0f735c6abae5",
+  "name" : "tearDownClass",
+  "fullName" : "cucumberOptions.TestRunner.tearDownClass",
+  "historyId" : "fb9919acab65e865c15a41c087ffaab6",
+  "time" : {
+    "start" : 1620385027955,
+    "stop" : 1620385027956,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "statusMessage" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+  "statusTrace" : "java.lang.NullPointerException: Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null\r\n\tat cucumberOptions.TestRunner.tearDownClass(TestRunner.java:55)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:564)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:61)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:366)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:320)\r\n\tat org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:217)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:130)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:764)\r\n\tat org.testng.TestRunner.run(TestRunner.java:585)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1140)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1069)\r\n\tat org.testng.TestNG.run(TestNG.java:1037)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1620385027307,
+      "stop" : 1620385027571,
+      "duration" : 264
+    },
+    "description" : "",
+    "status" : "broken",
+    "statusMessage" : "No backends were found. Please make sure you have a backend module on your CLASSPATH.",
+    "statusTrace" : "cucumber.runtime.CucumberException: No backends were found. Please make sure you have a backend module on your CLASSPATH.\r\n\tat cucumber.runtime.Runtime.<init>(Runtime.java:81)\r\n\tat cucumber.runtime.Runtime.<init>(Runtime.java:70)\r\n\tat cucumber.runtime.Runtime.<init>(Runtime.java:66)\r\n\tat cucumber.api.testng.TestNGCucumberRunner.<init>(TestNGCucumberRunner.java:42)\r\n\tat cucumberOptions.TestRunner.setUpClass(TestRunner.java:23)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:564)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:61)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:366)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:320)\r\n\tat org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:764)\r\n\tat org.testng.TestRunner.run(TestRunner.java:585)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1140)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1069)\r\n\tat org.testng.TestNG.run(TestNG.java:1037)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1620385027951,
+      "stop" : 1620385027952,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "broken",
+    "statusMessage" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+    "statusTrace" : "java.lang.NullPointerException: Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null\r\n\tat cucumberOptions.TestRunner.tearDownClass(TestRunner.java:55)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:564)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:61)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:366)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:320)\r\n\tat org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:217)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:130)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:764)\r\n\tat org.testng.TestRunner.run(TestRunner.java:585)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1140)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1069)\r\n\tat org.testng.TestNG.run(TestNG.java:1037)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "cucumberOptions.TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "cucumberOptions.TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "tearDownClass"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "cucumberOptions.TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "6392@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "AS_ID",
+    "value" : "-1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f15e3dd616ddb704",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620384521164,
+        "stop" : 1620384521164,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "71482dc0f879db84",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620384106226,
+        "stop" : 1620384106226,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "edff194b86088b11",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620383477047,
+        "stop" : 1620383477047,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "26364d6b650ae02",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620383361374,
+        "stop" : 1620383361374,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f937025bc37892cf",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620383294673,
+        "stop" : 1620383294673,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "286b6e82a63c584d",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+      "time" : {
+        "start" : 1620382280262,
+        "stop" : 1620382280262,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 8,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "46c0c995eb637bc7",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/46c0c995eb637bc7",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+        "time" : {
+          "start" : 1620385027955,
+          "stop" : 1620385027956,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "69ad91a0b111175e",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/69ad91a0b111175e",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+        "time" : {
+          "start" : 1620385027955,
+          "stop" : 1620385027956,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "ba4f28e5ae2da1be",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/ba4f28e5ae2da1be",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+        "time" : {
+          "start" : 1620385027955,
+          "stop" : 1620385027956,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "f01b7c84827fb433",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/f01b7c84827fb433",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+        "time" : {
+          "start" : 1620385027955,
+          "stop" : 1620385027956,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "425140e2edef2f47",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/425140e2edef2f47",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+        "time" : {
+          "start" : 1620385027955,
+          "stop" : 1620385027956,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "4cdeaeae2d2267c6",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/4cdeaeae2d2267c6",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+        "time" : {
+          "start" : 1620385027955,
+          "stop" : 1620385027956,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "fcdb1c01485287d2",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/fcdb1c01485287d2",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"cucumber.api.testng.TestNGCucumberRunner.finish()\" because \"this.testNGCucumberRunner\" is null",
+        "time" : {
+          "start" : 1620385027955,
+          "stop" : 1620385027956,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "453a0f735c6abae5.json",
+  "parameterValues" : [ ]
+}

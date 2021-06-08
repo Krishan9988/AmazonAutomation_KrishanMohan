@@ -1,0 +1,359 @@
+{
+  "uid" : "a5ad430f83f2395c",
+  "name" : "intialise",
+  "fullName" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home.intialise",
+  "historyId" : "3676c00965735aecf0733baa3ef8a5a8",
+  "time" : {
+    "start" : 1619671548083,
+    "stop" : 1619671548087,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "statusMessage" : "org.json.simple.parser.ParseException",
+  "statusTrace" : "Unexpected token END OF FILE at position 103.\r\n\tat org.json.simple.parser.JSONParser.parse(JSONParser.java:257)\r\n\tat org.json.simple.parser.JSONParser.parse(JSONParser.java:92)\r\n\tat resource.baseClass.intializingDriver(baseClass.java:39)\r\n\tat com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home.intialise(home.java:22)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:564)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:61)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:366)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:320)\r\n\tat org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:701)\r\n\tat org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)\r\n\tat org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)\r\n\tat org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)\r\n\tat org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)\r\n\tat org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:764)\r\n\tat org.testng.TestRunner.run(TestRunner.java:585)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1140)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1069)\r\n\tat org.testng.TestNG.run(TestNG.java:1037)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home"
+  }, {
+    "name" : "testClass",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home"
+  }, {
+    "name" : "testMethod",
+    "value" : "intialise"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "6624@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "AS_ID",
+    "value" : "-1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "552c2b515879dad1",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619671500907,
+        "stop" : 1619671500911,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "eaa53bf30b543eaa",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619671368760,
+        "stop" : 1619671368763,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "e3c1d10082337631",
+      "status" : "broken",
+      "statusDetails" : "org.json.simple.parser.ParseException",
+      "time" : {
+        "start" : 1619669606319,
+        "stop" : 1619669606325,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "ee982ba29093b895",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619669527260,
+        "stop" : 1619669527265,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "8f33006ef0b31b93",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619594877696,
+        "stop" : 1619594877699,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "c1418c49835464bc",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619593000240,
+        "stop" : 1619593000243,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "d2e39025f298e122",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"resource.baseClass.driver\" is null",
+      "time" : {
+        "start" : 1619592162316,
+        "stop" : 1619592162321,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "e3b5c13257207afa",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"resource.baseClass.driver\" is null",
+      "time" : {
+        "start" : 1619592054359,
+        "stop" : 1619592054363,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "580ba2f639ce748b",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"resource.baseClass.driver\" is null",
+      "time" : {
+        "start" : 1619591969434,
+        "stop" : 1619591969439,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "3d99cf2c65d3da90",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"resource.baseClass.driver\" is null",
+      "time" : {
+        "start" : 1619591896055,
+        "stop" : 1619591896061,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "d3b3ea19597eab7e",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619590105816,
+        "stop" : 1619590105819,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "cf94de50c89046ea",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"resource.baseClass.driver\" is null",
+      "time" : {
+        "start" : 1619589908776,
+        "stop" : 1619589908781,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "9767ddb1e217822",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"resource.baseClass.driver\" is null",
+      "time" : {
+        "start" : 1619589669549,
+        "stop" : 1619589669552,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "2db08630431efacd",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619584950083,
+        "stop" : 1619584950091,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "d71bf5ee303735fe",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619584890801,
+        "stop" : 1619584890807,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "b774858404e66479",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619584675789,
+        "stop" : 1619584675795,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "489170c640d1c431",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619584638834,
+        "stop" : 1619584638839,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "2c082f52610d74dc",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619584619914,
+        "stop" : 1619584619921,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "748d75330c53cf96",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619584586737,
+        "stop" : 1619584586742,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "bb5d772fff75b20e",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619583518410,
+        "stop" : 1619583518414,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "eccd561bb018a553",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619582897796,
+        "stop" : 1619582897800,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "cf159c38f512d76d",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619582814015,
+        "stop" : 1619582814021,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "27540183abdc3132",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619582334170,
+        "stop" : 1619582334177,
+        "duration" : 7
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 8,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "e2b5dff6459d59da",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/e2b5dff6459d59da",
+        "status" : "broken",
+        "statusDetails" : "org.json.simple.parser.ParseException",
+        "time" : {
+          "start" : 1619671548083,
+          "stop" : 1619671548087,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "9b8ed035409e63c7",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/9b8ed035409e63c7",
+        "status" : "broken",
+        "statusDetails" : "org.json.simple.parser.ParseException",
+        "time" : {
+          "start" : 1619671548083,
+          "stop" : 1619671548087,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "a9fa27eb63d250c3",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/a9fa27eb63d250c3",
+        "status" : "broken",
+        "statusDetails" : "org.json.simple.parser.ParseException",
+        "time" : {
+          "start" : 1619671548083,
+          "stop" : 1619671548087,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "a0a7e1acaeb887",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/a0a7e1acaeb887",
+        "status" : "broken",
+        "statusDetails" : "org.json.simple.parser.ParseException",
+        "time" : {
+          "start" : 1619671548083,
+          "stop" : 1619671548087,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "f096ed36911d00be",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/f096ed36911d00be",
+        "status" : "broken",
+        "statusDetails" : "org.json.simple.parser.ParseException",
+        "time" : {
+          "start" : 1619671548083,
+          "stop" : 1619671548087,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "319da8a57b72bc1f",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/319da8a57b72bc1f",
+        "status" : "broken",
+        "statusDetails" : "org.json.simple.parser.ParseException",
+        "time" : {
+          "start" : 1619671548083,
+          "stop" : 1619671548087,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "75f6c44681e7197e",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/75f6c44681e7197e",
+        "status" : "broken",
+        "statusDetails" : "org.json.simple.parser.ParseException",
+        "time" : {
+          "start" : 1619671548083,
+          "stop" : 1619671548087,
+          "duration" : 4
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a5ad430f83f2395c.json",
+  "parameterValues" : [ ]
+}

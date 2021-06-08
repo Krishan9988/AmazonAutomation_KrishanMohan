@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <listeners>
+  <listener class-name="pageTestCases.AllureListeners"/>
+  </listeners>
+  <test name="Test">  
+    <classes>
+      <class name="pageTestCases.LoginTest"/>
+      <class name="pageTestCases.AddToCartTest"/>
+      <class name="pageTestCases.CartTest"/>
+      <class name="pageTestCases.FileUploadTest"/>
+      <class name="pageTestCases.FooterLinksTest"/>
+      <class name="pageTestCases.HomeTest"/>
+      <class name="pageTestCases.SocialMediaTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

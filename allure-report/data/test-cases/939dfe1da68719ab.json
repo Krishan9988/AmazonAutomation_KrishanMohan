@@ -1,0 +1,140 @@
+{
+  "uid" : "939dfe1da68719ab",
+  "name" : "Verify Hover Text for the benefits available on an item",
+  "fullName" : "pageTestCases.hoverTest.hoverTextDisplayed",
+  "historyId" : "bf0aa569dc976b4b3b07245cfb5ac0ba",
+  "time" : {
+    "start" : 1620211650073,
+    "stop" : 1620211667105,
+    "duration" : 17032
+  },
+  "description" : "Test Case Description:Verify Hover Text for the Pay on Delivery, 10 days returnable, Amazon Delivered and 1 Year Warranty",
+  "descriptionHtml" : "<p>Test Case Description:Verify Hover Text for the Pay on Delivery, 10 days returnable, Amazon Delivered and 1 Year Warranty</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialise",
+    "time" : {
+      "start" : 1620211635793,
+      "stop" : 1620211649709,
+      "duration" : 13916
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description:Verify Hover Text for the Pay on Delivery, 10 days returnable, Amazon Delivered and 1 Year Warranty",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Method for Entering data in Search Text Box",
+      "time" : {
+        "start" : 1620211650101,
+        "stop" : 1620211650104,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for Searchbox",
+      "time" : {
+        "start" : 1620211650258,
+        "stop" : 1620211650258,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on first searched item",
+      "time" : {
+        "start" : 1620211653909,
+        "stop" : 1620211653910,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.hoverTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.hoverTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "hoverTextDisplayed"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.hoverTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "8992@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check user is able to hover on Pay on Delivery, 10 days returnable, Amazon Delivered and 1 Year Warranty"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "939dfe1da68719ab.json",
+  "parameterValues" : [ ]
+}

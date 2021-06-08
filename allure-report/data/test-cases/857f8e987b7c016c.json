@@ -1,0 +1,378 @@
+{
+  "uid" : "857f8e987b7c016c",
+  "name" : "Verify user is able to delete items from cart",
+  "fullName" : "pageTestCases.AddToCartTest.removeItemFromCart",
+  "historyId" : "5b96bec7571ab7aa3dd0b92280ce5846",
+  "time" : {
+    "start" : 1620563965064,
+    "stop" : 1620563988474,
+    "duration" : 23410
+  },
+  "description" : "Test Case Description:Verify user is able to delete items from cart",
+  "descriptionHtml" : "<p>Test Case Description:Verify user is able to delete items from cart</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialise",
+    "time" : {
+      "start" : 1620563955811,
+      "stop" : 1620563965055,
+      "duration" : 9244
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1620563801864,
+      "stop" : 1620563806682,
+      "duration" : 4818
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description:Verify user is able to delete items from cart",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Method for Entering data in Search Text Box",
+      "time" : {
+        "start" : 1620563965065,
+        "stop" : 1620563965065,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for Searchbox",
+      "time" : {
+        "start" : 1620563965622,
+        "stop" : 1620563965622,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on first searched item",
+      "time" : {
+        "start" : 1620563967942,
+        "stop" : 1620563967942,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for Add to Cart",
+      "time" : {
+        "start" : 1620563968288,
+        "stop" : 1620563968288,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "To click on popup",
+      "time" : {
+        "start" : 1620563983220,
+        "stop" : 1620563983220,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to know Cart Count/Click",
+      "time" : {
+        "start" : 1620563985788,
+        "stop" : 1620563985788,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to remove item from Cart",
+      "time" : {
+        "start" : 1620563986243,
+        "stop" : 1620563986243,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to know Cart Count/Click",
+      "time" : {
+        "start" : 1620563986698,
+        "stop" : 1620563986698,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method to know Cart Count/Click",
+      "time" : {
+        "start" : 1620563988446,
+        "stop" : 1620563988446,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1620563988477,
+      "stop" : 1620563989235,
+      "duration" : 758
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1620564122211,
+      "stop" : 1620564123275,
+      "duration" : 1064
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1620564123275,
+      "stop" : 1620564123994,
+      "duration" : 719
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.AddToCartTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.AddToCartTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "removeItemFromCart"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.AddToCartTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "11624@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check user is able to see remove the item from Cart"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "66609f97f4f76fdf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563416402,
+        "stop" : 1620563436709,
+        "duration" : 20307
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "6aa817c8aa748cee",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/6aa817c8aa748cee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620563965064,
+          "stop" : 1620563988474,
+          "duration" : 23410
+        }
+      }, {
+        "uid" : "4e786cf5820360bd",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/4e786cf5820360bd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620563965064,
+          "stop" : 1620563988474,
+          "duration" : 23410
+        }
+      }, {
+        "uid" : "3b83029172779314",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/3b83029172779314",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620563965064,
+          "stop" : 1620563988474,
+          "duration" : 23410
+        }
+      }, {
+        "uid" : "88ff1bec488c8e49",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/88ff1bec488c8e49",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620563965064,
+          "stop" : 1620563988474,
+          "duration" : 23410
+        }
+      }, {
+        "uid" : "d7ff289f7050efea",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/d7ff289f7050efea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620563965064,
+          "stop" : 1620563988474,
+          "duration" : 23410
+        }
+      }, {
+        "uid" : "9e1b18ed9918d354",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/9e1b18ed9918d354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620563965064,
+          "stop" : 1620563988474,
+          "duration" : 23410
+        }
+      }, {
+        "uid" : "77e6dce13fce6788",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/77e6dce13fce6788",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620563965064,
+          "stop" : 1620563988474,
+          "duration" : 23410
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "857f8e987b7c016c.json",
+  "parameterValues" : [ ]
+}

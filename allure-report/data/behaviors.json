@@ -1,0 +1,752 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "intializeBrowser",
+    "uid" : "3813f8bd5f7b5e32",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1619428514361,
+      "stop" : 1619428514404,
+      "duration" : 43
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "intializeBrowser",
+    "uid" : "8587abaac9c84790",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619441616088,
+      "stop" : 1619441616138,
+      "duration" : 50
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "intialisedriver",
+    "uid" : "f812c8315933f84f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1619582270820,
+      "stop" : 1619582270825,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "intialise",
+    "uid" : "a5ad430f83f2395c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1619671548083,
+      "stop" : 1619671548087,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "getDatafromJson",
+    "uid" : "cfcc1442d428eb6f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619672199006,
+      "stop" : 1619672199063,
+      "duration" : 57
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "getdemo",
+    "uid" : "4e1df2d9763b26e5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619672199538,
+      "stop" : 1619672217141,
+      "duration" : 17603
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Story Name: To check SearchBox button visible on Home Page",
+    "children" : [ {
+      "name" : "To verify SearchBox Element visible on Home page",
+      "uid" : "c4e9690cbfdbfc2b",
+      "parentUid" : "6aa63b79620a5d7d071223f64f2a4b96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619672226507,
+        "stop" : 1619672226986,
+        "duration" : 479
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "To verify SearchBox Element visible on Home page",
+      "uid" : "775f4a5387c57df7",
+      "parentUid" : "6aa63b79620a5d7d071223f64f2a4b96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619956926497,
+        "stop" : 1619956927179,
+        "duration" : 682
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "To verify SearchBox Element visible on Home page",
+      "uid" : "3363b838ae52ac5e",
+      "parentUid" : "6aa63b79620a5d7d071223f64f2a4b96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706770538,
+        "stop" : 1620706770840,
+        "duration" : 302
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6aa63b79620a5d7d071223f64f2a4b96"
+  }, {
+    "name" : "intialise",
+    "uid" : "986f566c91ce9fce",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1620041275090,
+      "stop" : 1620041275095,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Story Name: To check Search text box showing suggested item list on entering data",
+    "children" : [ {
+      "name" : "To verify on entering data in Search text box than suggested item displayed",
+      "uid" : "274f3cb0304a35ec",
+      "parentUid" : "385b57123662977f6f9be731547a338a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620041591141,
+        "stop" : 1620041592526,
+        "duration" : 1385
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "To verify on entering data in Search text box than suggested item displayed",
+      "uid" : "2f7c05e5eb83677c",
+      "parentUid" : "385b57123662977f6f9be731547a338a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706758680,
+        "stop" : 1620706760944,
+        "duration" : 2264
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "385b57123662977f6f9be731547a338a"
+  }, {
+    "name" : "Story Name: To check user is able to search item using Shop by Department option",
+    "children" : [ {
+      "name" : "Verify user is able to search items using Shop by Department option. (All >> Shop By Department >> TV, Appliances  >> DSLR Cameras) ",
+      "uid" : "dbe9664e04592749",
+      "parentUid" : "7802abe186997baea77499765b00b4ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620120200939,
+        "stop" : 1620120208898,
+        "duration" : 7959
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify user is able to search items using Shop by Department option. (All >> Shop By Department >> TV, Appliances  >> DSLR Cameras) ",
+      "uid" : "104ab0c9556ecb0a",
+      "parentUid" : "7802abe186997baea77499765b00b4ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706792956,
+        "stop" : 1620706800626,
+        "duration" : 7670
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7802abe186997baea77499765b00b4ce"
+  }, {
+    "name" : "Story Name: To check user is able to search item and see the result",
+    "children" : [ {
+      "name" : "To verify on searching list of search items displayed",
+      "uid" : "9fa5253a726eddb4",
+      "parentUid" : "e0fa9c522366a0f4707539322f0099af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620121947268,
+        "stop" : 1620121953078,
+        "duration" : 5810
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "To verify on searching list of search items displayed",
+      "uid" : "f4a356636cd09c4a",
+      "parentUid" : "e0fa9c522366a0f4707539322f0099af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620706779584,
+        "stop" : 1620706784218,
+        "duration" : 4634
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e0fa9c522366a0f4707539322f0099af"
+  }, {
+    "name" : "Story Name: To check user is able to select value from Quantity drop down",
+    "children" : [ {
+      "name" : "Verify Quantity drop down is displayed and user is able to select values",
+      "uid" : "f47e8de4acc58d2c",
+      "parentUid" : "cf50d96db4e185604f10db31b1f9847e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193132352,
+        "stop" : 1620193145837,
+        "duration" : 13485
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cf50d96db4e185604f10db31b1f9847e"
+  }, {
+    "name" : "Story Name: To check user is able to see Add to Cart, Buy Now and Add to Wish List",
+    "children" : [ {
+      "name" : "Verify buttons Add to Cart, Buy Now and Add to Wish List are displayed",
+      "uid" : "257df879a6e612ec",
+      "parentUid" : "2a34a95069f5369360889e29688db70e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620193789310,
+        "stop" : 1620193798650,
+        "duration" : 9340
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2a34a95069f5369360889e29688db70e"
+  }, {
+    "name" : "tearDown",
+    "uid" : "1bb4a31d0a53e2d5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1620207774041,
+      "stop" : 1620207774043,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Story Name: To check user is able check the checkbox",
+    "children" : [ {
+      "name" : "user is able to select all the checkboxes present in the box",
+      "uid" : "a25f2309b509cfc2",
+      "parentUid" : "0b348a8446d9b83fb2c08fdc54428cc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620208029063,
+        "stop" : 1620208038976,
+        "duration" : 9913
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "user is able to select all the checkboxes present in the box",
+      "uid" : "28bfccec342f53e1",
+      "parentUid" : "0b348a8446d9b83fb2c08fdc54428cc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564026299,
+        "stop" : 1620564046453,
+        "duration" : 20154
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0b348a8446d9b83fb2c08fdc54428cc9"
+  }, {
+    "name" : "Story Name: To check user is able to hover on Pay on Delivery, 10 days returnable, Amazon Delivered and 1 Year Warranty",
+    "children" : [ {
+      "name" : "Verify Hover Text for the benefits available on an item",
+      "uid" : "2dc3724c2f7fc9ac",
+      "parentUid" : "a5913eece241d6a04d3c9a41a559b26b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620212017784,
+        "stop" : 1620212032521,
+        "duration" : 14737
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a5913eece241d6a04d3c9a41a559b26b"
+  }, {
+    "name" : "Story Name: To check user is able to see Add item into Cart than see Added to Cart text",
+    "children" : [ {
+      "name" : "Verify Added to Cart text displayed",
+      "uid" : "2085451f86b13735",
+      "parentUid" : "ae32903cebfbcb5cb27fc416da9ea32d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620214783090,
+        "stop" : 1620214798807,
+        "duration" : 15717
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Added to Cart text displayed",
+      "uid" : "459a0f520ba53643",
+      "parentUid" : "ae32903cebfbcb5cb27fc416da9ea32d",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620216196133,
+        "stop" : 1620216231417,
+        "duration" : 35284
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Added to Cart text displayed",
+      "uid" : "bf2adfbb78ed7a24",
+      "parentUid" : "ae32903cebfbcb5cb27fc416da9ea32d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563996246,
+        "stop" : 1620564018309,
+        "duration" : 22063
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ae32903cebfbcb5cb27fc416da9ea32d"
+  }, {
+    "name" : "Story Name: To check user is able to see remove the item from Cart",
+    "children" : [ {
+      "name" : "Verify user is able to delete items from cart",
+      "uid" : "e06b532401cd2e68",
+      "parentUid" : "2c067510fc7f9e97b431dd0ac43bd135",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217419263,
+        "stop" : 1620217433006,
+        "duration" : 13743
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify user is able to delete items from cart",
+      "uid" : "857f8e987b7c016c",
+      "parentUid" : "2c067510fc7f9e97b431dd0ac43bd135",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620563965064,
+        "stop" : 1620563988474,
+        "duration" : 23410
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2c067510fc7f9e97b431dd0ac43bd135"
+  }, {
+    "name" : "Story Name: To check user is able to see Cart count 1 or more than 1",
+    "children" : [ {
+      "name" : "Verify Cart Count displayed",
+      "uid" : "f25bea7a87775980",
+      "parentUid" : "5721694a2e989f992a17dbe6adf51d36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620217595954,
+        "stop" : 1620217612749,
+        "duration" : 16795
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Cart Count displayed",
+      "uid" : "947871ce62d2f46d",
+      "parentUid" : "5721694a2e989f992a17dbe6adf51d36",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620563860508,
+        "stop" : 1620563890184,
+        "duration" : 29676
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5721694a2e989f992a17dbe6adf51d36"
+  }, {
+    "name" : "Story Name: To check Item price is same after adding to cart",
+    "children" : [ {
+      "name" : "Verify Item price is same after adding to cart",
+      "uid" : "a31b31a4a3fd370",
+      "parentUid" : "6eab235698b850653ac2ff636b6fec28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620277616542,
+        "stop" : 1620277647802,
+        "duration" : 31260
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Item price is same after adding to cart",
+      "uid" : "5c8b3d70df0b92ec",
+      "parentUid" : "6eab235698b850653ac2ff636b6fec28",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620563925755,
+        "stop" : 1620563955085,
+        "duration" : 29330
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6eab235698b850653ac2ff636b6fec28"
+  }, {
+    "name" : "teardown",
+    "uid" : "34dc00798fb338e9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1620280638710,
+      "stop" : 1620280638712,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Story Name: To check Item price getting increase on increasing quantity",
+    "children" : [ {
+      "name" : "Verify price getting increased accordingly in cart when user increasing the quantity",
+      "uid" : "4213c7863e151690",
+      "parentUid" : "3d460384ced69970ab329e3a7980b1dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620280732020,
+        "stop" : 1620280746851,
+        "duration" : 14831
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify price getting increased accordingly in cart when user increasing the quantity",
+      "uid" : "810d3e831b0f4ff4",
+      "parentUid" : "3d460384ced69970ab329e3a7980b1dc",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620563899307,
+        "stop" : 1620563918395,
+        "duration" : 19088
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3d460384ced69970ab329e3a7980b1dc"
+  }, {
+    "name" : "setUpClass",
+    "uid" : "7c3c6a83794c3570",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1620385027697,
+      "stop" : 1620385027703,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Runs Cucumber Feature",
+    "uid" : "d4ab3b7ac2a22865",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1620385027942,
+      "stop" : 1620385027944,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "tearDownClass",
+    "uid" : "453a0f735c6abae5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1620385027955,
+      "stop" : 1620385027956,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Story Name: To check user able to login",
+    "children" : [ {
+      "name" : "To verify user able to login successfully",
+      "uid" : "e1984089892f0d48",
+      "parentUid" : "a833f987438c1a6ac0573a8a4437ec97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620387685417,
+        "stop" : 1620387735198,
+        "duration" : 49781
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a833f987438c1a6ac0573a8a4437ec97"
+  }, {
+    "name" : "Story Name: To know the text of footer",
+    "children" : [ {
+      "name" : "To get all the links of footer",
+      "uid" : "3b8210078dac6875",
+      "parentUid" : "4fd4b1bd1877e7f4918e1a0dc21f3ec8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620475951331,
+        "stop" : 1620475951642,
+        "duration" : 311
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4fd4b1bd1877e7f4918e1a0dc21f3ec8"
+  }, {
+    "name" : "intialise",
+    "uid" : "936e37ececc6a9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1620478992718,
+      "stop" : 1620478992723,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Story Name: To Upload a file",
+    "children" : [ {
+      "name" : "To upload a file",
+      "uid" : "b53e123be66a932b",
+      "parentUid" : "91bed371dbc06eed792f3c2a8ba4b78d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620480552985,
+        "stop" : 1620480565697,
+        "duration" : 12712
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "91bed371dbc06eed792f3c2a8ba4b78d"
+  }, {
+    "name" : "Story Name: To get all the Countries Name of footer",
+    "children" : [ {
+      "name" : "To get all the Countries Name of footer",
+      "uid" : "3ebe9b29fd2400eb",
+      "parentUid" : "645aa3dabed7d9dbdf39c001f1e87501",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620562470071,
+        "stop" : 1620562471791,
+        "duration" : 1720
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "645aa3dabed7d9dbdf39c001f1e87501"
+  }, {
+    "name" : "tearDown",
+    "uid" : "e0ad75720184ec0b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1620563537251,
+      "stop" : 1620563537253,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Story Name: To check user is able navigate to social media link",
+    "children" : [ {
+      "name" : "Verify user is navigated to respective pages when clicked on social media links like Facebook, Twitter and Pinterest",
+      "uid" : "571c4bfbcf1906ae",
+      "parentUid" : "97683162252636b95b7268614acfffb1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620564058212,
+        "stop" : 1620564096803,
+        "duration" : 38591
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "97683162252636b95b7268614acfffb1"
+  }, {
+    "name" : "tearDown",
+    "uid" : "65070bca0346101f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1620565321679,
+      "stop" : 1620565321682,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Story Name: To check user able to SignIn",
+    "children" : [ {
+      "name" : "To verify user able to SignIn successfully",
+      "uid" : "b3f608a16ab84a53",
+      "parentUid" : "56c66a1f6af24ae9b8a23a420650d8bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709823877,
+        "stop" : 1620709833802,
+        "duration" : 9925
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "56c66a1f6af24ae9b8a23a420650d8bd"
+  }, {
+    "name" : "Story Name: To check user able to SignOut",
+    "children" : [ {
+      "name" : "To verify user able to SignOut successfully",
+      "uid" : "e8aabcf711d64c74",
+      "parentUid" : "92980b3cb6bf8bcda874fb6a228e1c60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620709833815,
+        "stop" : 1620709839741,
+        "duration" : 5926
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "92980b3cb6bf8bcda874fb6a228e1c60"
+  }, {
+    "name" : "asserting",
+    "uid" : "d8fdfd7f0cbd8677",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1620711913158,
+      "stop" : 1620711913160,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "setup",
+    "uid" : "1132d66ebb11837d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1620726120960,
+      "stop" : 1620726120966,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "tearDown",
+    "uid" : "466989529f72cb55",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1620732796295,
+      "stop" : 1620732796296,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Story Name: To check user not able to SignIn with invalid credentials",
+    "children" : [ {
+      "name" : "To verify user not able to SignIn with invalid credentials",
+      "uid" : "ddd6341de0a2e6b2",
+      "parentUid" : "3375e00f353570b7d59f1fd710b7b9b4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1620734114302,
+        "stop" : 1620734124497,
+        "duration" : 10195
+      },
+      "flaky" : true,
+      "newFailed" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3375e00f353570b7d59f1fd710b7b9b4"
+  } ]
+}

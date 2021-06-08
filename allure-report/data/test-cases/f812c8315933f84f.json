@@ -1,0 +1,215 @@
+{
+  "uid" : "f812c8315933f84f",
+  "name" : "intialisedriver",
+  "fullName" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home.intialisedriver",
+  "historyId" : "35f953a307110cdfaac1b77b9f001b62",
+  "time" : {
+    "start" : 1619582270820,
+    "stop" : 1619582270825,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "statusMessage" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+  "statusTrace" : "java.lang.NullPointerException: Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null\r\n\tat resources.baseClass.intializeDriver(baseClass.java:57)\r\n\tat com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home.intialisedriver(home.java:20)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:564)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:61)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:366)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:320)\r\n\tat org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:617)\r\n\tat org.testng.TestRunner.beforeRun(TestRunner.java:607)\r\n\tat org.testng.TestRunner.run(TestRunner.java:578)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1140)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1069)\r\n\tat org.testng.TestNG.run(TestNG.java:1037)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialisedriver",
+    "time" : {
+      "start" : 1619582270645,
+      "stop" : 1619582270685,
+      "duration" : 40
+    },
+    "description" : "",
+    "status" : "broken",
+    "statusMessage" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+    "statusTrace" : "java.lang.NullPointerException: Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null\r\n\tat resources.baseClass.intializeDriver(baseClass.java:57)\r\n\tat com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home.intialisedriver(home.java:20)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:564)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:61)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:366)\r\n\tat org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:320)\r\n\tat org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:617)\r\n\tat org.testng.TestRunner.beforeRun(TestRunner.java:607)\r\n\tat org.testng.TestRunner.run(TestRunner.java:578)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1140)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1069)\r\n\tat org.testng.TestNG.run(TestNG.java:1037)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home"
+  }, {
+    "name" : "testClass",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home"
+  }, {
+    "name" : "testMethod",
+    "value" : "intialisedriver"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "6684@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "AS_ID",
+    "value" : "-1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "23cc56b55a72723",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619581938203,
+        "stop" : 1619581938208,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "a232b5554ebbea8b",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619581884227,
+        "stop" : 1619581884287,
+        "duration" : 60
+      }
+    }, {
+      "uid" : "231ff0dd29b7f5e3",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619530335070,
+        "stop" : 1619530335075,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "b1bde6923912e734",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619530004122,
+        "stop" : 1619530004127,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "2c3dfd35155cb529",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619529927327,
+        "stop" : 1619529927334,
+        "duration" : 7
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 8,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "11d70f705598031f",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/11d70f705598031f",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+        "time" : {
+          "start" : 1619582270820,
+          "stop" : 1619582270825,
+          "duration" : 5
+        }
+      }, {
+        "uid" : "42c5549635565fc7",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/42c5549635565fc7",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+        "time" : {
+          "start" : 1619582270820,
+          "stop" : 1619582270825,
+          "duration" : 5
+        }
+      }, {
+        "uid" : "d86203aa71e40afe",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/d86203aa71e40afe",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+        "time" : {
+          "start" : 1619582270820,
+          "stop" : 1619582270825,
+          "duration" : 5
+        }
+      }, {
+        "uid" : "673a4007b120517f",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/673a4007b120517f",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+        "time" : {
+          "start" : 1619582270820,
+          "stop" : 1619582270825,
+          "duration" : 5
+        }
+      }, {
+        "uid" : "2acd222b6326c3c0",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/2acd222b6326c3c0",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+        "time" : {
+          "start" : 1619582270820,
+          "stop" : 1619582270825,
+          "duration" : 5
+        }
+      }, {
+        "uid" : "c83319b35a5fc82",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/c83319b35a5fc82",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+        "time" : {
+          "start" : 1619582270820,
+          "stop" : 1619582270825,
+          "duration" : 5
+        }
+      }, {
+        "uid" : "ff1f1f050a3ea254",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/ff1f1f050a3ea254",
+        "status" : "broken",
+        "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+        "time" : {
+          "start" : 1619582270820,
+          "stop" : 1619582270825,
+          "duration" : 5
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f812c8315933f84f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,240 @@
+{
+  "uid" : "2dc3724c2f7fc9ac",
+  "name" : "Verify Hover Text for the benefits available on an item",
+  "fullName" : "pageTestCases.hoverTest.hoverTextDisplayed",
+  "historyId" : "bf0aa569dc976b4b3b07245cfb5ac0ba",
+  "time" : {
+    "start" : 1620212017784,
+    "stop" : 1620212032521,
+    "duration" : 14737
+  },
+  "description" : "Test Case Description:Verify Hover Text for the Pay on Delivery, 10 days returnable, Amazon Delivered and 1 Year Warranty",
+  "descriptionHtml" : "<p>Test Case Description:Verify Hover Text for the Pay on Delivery, 10 days returnable, Amazon Delivered and 1 Year Warranty</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialise",
+    "time" : {
+      "start" : 1620212000156,
+      "stop" : 1620212017213,
+      "duration" : 17057
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Case Description:Verify Hover Text for the Pay on Delivery, 10 days returnable, Amazon Delivered and 1 Year Warranty",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Method for Entering data in Search Text Box",
+      "time" : {
+        "start" : 1620212017820,
+        "stop" : 1620212017823,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Method for Searchbox",
+      "time" : {
+        "start" : 1620212018020,
+        "stop" : 1620212018020,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on first searched item",
+      "time" : {
+        "start" : 1620212021220,
+        "stop" : 1620212021220,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "pageTestCases.hoverTest"
+  }, {
+    "name" : "testClass",
+    "value" : "pageTestCases.hoverTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "hoverTextDisplayed"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "pageTestCases.hoverTest"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "1784@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check user is able to hover on Pay on Delivery, 10 days returnable, Amazon Delivered and 1 Year Warranty"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "939dfe1da68719ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620211650073,
+        "stop" : 1620211667105,
+        "duration" : 17032
+      }
+    }, {
+      "uid" : "5de890823869115c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620211568109,
+        "stop" : 1620211579955,
+        "duration" : 11846
+      }
+    }, {
+      "uid" : "d8dfc1080bf87bf3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620211474189,
+        "stop" : 1620211486608,
+        "duration" : 12419
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "1f514994b50b0695",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/1f514994b50b0695",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620212017784,
+          "stop" : 1620212032521,
+          "duration" : 14737
+        }
+      }, {
+        "uid" : "f81b8bbc5ce8a9be",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/f81b8bbc5ce8a9be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620212017784,
+          "stop" : 1620212032521,
+          "duration" : 14737
+        }
+      }, {
+        "uid" : "b9aa702dfe546ff8",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/b9aa702dfe546ff8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620212017784,
+          "stop" : 1620212032521,
+          "duration" : 14737
+        }
+      }, {
+        "uid" : "f24c357e88f7a8ed",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/f24c357e88f7a8ed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620212017784,
+          "stop" : 1620212032521,
+          "duration" : 14737
+        }
+      }, {
+        "uid" : "e713ad990d9ae491",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/e713ad990d9ae491",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620212017784,
+          "stop" : 1620212032521,
+          "duration" : 14737
+        }
+      }, {
+        "uid" : "9893827304b24591",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/9893827304b24591",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620212017784,
+          "stop" : 1620212032521,
+          "duration" : 14737
+        }
+      }, {
+        "uid" : "b808af05437f094d",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/b808af05437f094d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620212017784,
+          "stop" : 1620212032521,
+          "duration" : 14737
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "2dc3724c2f7fc9ac.json",
+  "parameterValues" : [ ]
+}

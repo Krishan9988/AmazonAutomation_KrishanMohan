@@ -1,0 +1,84 @@
+{
+  "uid" : "d7ba3dd1c763453d",
+  "name" : "To verify SearchBox Element visible on Home page",
+  "fullName" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home.searchBoxVisibilty",
+  "historyId" : "5de590403fbcaef42fcdceb16a2c803b",
+  "time" : {
+    "start" : 1619671580523,
+    "stop" : 1619671580810,
+    "duration" : 287
+  },
+  "description" : "Test Case Description:Verify SearchBox",
+  "descriptionHtml" : "<p>Test Case Description:Verify SearchBox</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "intialise",
+    "time" : {
+      "start" : 1619671572016,
+      "stop" : 1619671579515,
+      "duration" : 7499
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home"
+  }, {
+    "name" : "testClass",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchBoxVisibilty"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.home"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "4672@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name: To check SearchBox button visible on Home Page"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7ba3dd1c763453d.json",
+  "parameterValues" : [ ]
+}

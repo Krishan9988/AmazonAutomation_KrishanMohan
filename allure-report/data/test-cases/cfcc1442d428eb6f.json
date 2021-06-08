@@ -1,0 +1,177 @@
+{
+  "uid" : "cfcc1442d428eb6f",
+  "name" : "getDatafromJson",
+  "fullName" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.JsonSimpleReadExample.getDatafromJson",
+  "historyId" : "e8e9bd7894a1d83848bb2996b5e1d426",
+  "time" : {
+    "start" : 1619672199006,
+    "stop" : 1619672199063,
+    "duration" : 57
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.JsonSimpleReadExample"
+  }, {
+    "name" : "testClass",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.JsonSimpleReadExample"
+  }, {
+    "name" : "testMethod",
+    "value" : "getDatafromJson"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.JsonSimpleReadExample"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "7504@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "49a5158efb79b02d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619671052416,
+        "stop" : 1619671052463,
+        "duration" : 47
+      }
+    }, {
+      "uid" : "c79b7fabff1506f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619441209444,
+        "stop" : 1619441209494,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "3ad445347adf8eb1",
+      "status" : "broken",
+      "statusDetails" : "class java.lang.Long cannot be cast to class java.lang.Integer (java.lang.Long and java.lang.Integer are in module java.base of loader 'bootstrap')",
+      "time" : {
+        "start" : 1619441175010,
+        "stop" : 1619441175066,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "787d2bde845fce9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619440986573,
+        "stop" : 1619440986621,
+        "duration" : 48
+      }
+    }, {
+      "uid" : "e12ba8611c821a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619431949054,
+        "stop" : 1619431949097,
+        "duration" : 43
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "a86d297d6315519d",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/a86d297d6315519d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199006,
+          "stop" : 1619672199063,
+          "duration" : 57
+        }
+      }, {
+        "uid" : "d9fcc06c3bf9f051",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/d9fcc06c3bf9f051",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199006,
+          "stop" : 1619672199063,
+          "duration" : 57
+        }
+      }, {
+        "uid" : "6734319c19f0bc32",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/6734319c19f0bc32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199006,
+          "stop" : 1619672199063,
+          "duration" : 57
+        }
+      }, {
+        "uid" : "42b689c2850ef026",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/42b689c2850ef026",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199006,
+          "stop" : 1619672199063,
+          "duration" : 57
+        }
+      }, {
+        "uid" : "d5cfe6c3f27fce9e",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/d5cfe6c3f27fce9e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199006,
+          "stop" : 1619672199063,
+          "duration" : 57
+        }
+      }, {
+        "uid" : "fef64f2bd88734d1",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/fef64f2bd88734d1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199006,
+          "stop" : 1619672199063,
+          "duration" : 57
+        }
+      }, {
+        "uid" : "2029ba95bc632dce",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/2029ba95bc632dce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199006,
+          "stop" : 1619672199063,
+          "duration" : 57
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "cfcc1442d428eb6f.json",
+  "parameterValues" : [ ]
+}

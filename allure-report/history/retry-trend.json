@@ -1,0 +1,65 @@
+[ {
+  "buildOrder" : 25,
+  "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/25/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 51,
+    "retry" : 391
+  }
+}, {
+  "buildOrder" : 24,
+  "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 51,
+    "retry" : 390
+  }
+}, {
+  "buildOrder" : 17,
+  "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 50,
+    "retry" : 379
+  }
+}, {
+  "buildOrder" : 16,
+  "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 50,
+    "retry" : 375
+  }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 49,
+    "retry" : 372
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 49,
+    "retry" : 370
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 49,
+    "retry" : 358
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 49,
+    "retry" : 358
+  }
+} ]

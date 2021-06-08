@@ -1,0 +1,271 @@
+{
+  "uid" : "4e1df2d9763b26e5",
+  "name" : "getdemo",
+  "fullName" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.demo.getdemo",
+  "historyId" : "67ed5abeb2e551f2c2aaf88b9666b296",
+  "time" : {
+    "start" : 1619672199538,
+    "stop" : 1619672217141,
+    "duration" : 17603
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.demo"
+  }, {
+    "name" : "testClass",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.demo"
+  }, {
+    "name" : "testMethod",
+    "value" : "getdemo"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.Tx.KrishanMohan.AmazonAutomation_KrishanMohan.demo"
+  }, {
+    "name" : "host",
+    "value" : "PC"
+  }, {
+    "name" : "thread",
+    "value" : "7504@PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4e7ea5d74aacf3f2",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619584028817,
+        "stop" : 1619584028863,
+        "duration" : 46
+      }
+    }, {
+      "uid" : "5f9c0cd4626f847",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619584001958,
+        "stop" : 1619584002021,
+        "duration" : 63
+      }
+    }, {
+      "uid" : "ff17ae622158468f",
+      "status" : "broken",
+      "statusDetails" : "Timed out waiting for driver server to start.\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'PC', ip: '10.170.0.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1619583967451,
+        "stop" : 1619583988448,
+        "duration" : 20997
+      }
+    }, {
+      "uid" : "69b770b694bf8319",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619583920864,
+        "stop" : 1619583928783,
+        "duration" : 7919
+      }
+    }, {
+      "uid" : "55f0698d82beea60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619583873109,
+        "stop" : 1619583883619,
+        "duration" : 10510
+      }
+    }, {
+      "uid" : "d46402d37c9abeb4",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619582567410,
+        "stop" : 1619582567475,
+        "duration" : 65
+      }
+    }, {
+      "uid" : "98f57e9f58d4a996",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619581859378,
+        "stop" : 1619581859441,
+        "duration" : 63
+      }
+    }, {
+      "uid" : "f16a40ce72744ab1",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619581708126,
+        "stop" : 1619581708179,
+        "duration" : 53
+      }
+    }, {
+      "uid" : "dca8694154cfa37b",
+      "status" : "broken",
+      "statusDetails" : "Cannot invoke \"org.openqa.selenium.WebDriver.manage()\" because \"this.driver\" is null",
+      "time" : {
+        "start" : 1619581695870,
+        "stop" : 1619581695920,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "2c1601c8da9e74a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619496689356,
+        "stop" : 1619496702357,
+        "duration" : 13001
+      }
+    }, {
+      "uid" : "cbaecc656093c3bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619443752158,
+        "stop" : 1619443757955,
+        "duration" : 5797
+      }
+    }, {
+      "uid" : "5a4ee075fabd5f1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619443704958,
+        "stop" : 1619443708786,
+        "duration" : 3828
+      }
+    }, {
+      "uid" : "6acc2eb778b30015",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619443641501,
+        "stop" : 1619443645247,
+        "duration" : 3746
+      }
+    }, {
+      "uid" : "5ebd9a596353262",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619443276606,
+        "stop" : 1619443280550,
+        "duration" : 3944
+      }
+    }, {
+      "uid" : "8a846046dac79714",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619443151780,
+        "stop" : 1619443151829,
+        "duration" : 49
+      }
+    }, {
+      "uid" : "48b3163fe43b69a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619442158370,
+        "stop" : 1619442158420,
+        "duration" : 50
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "3f2143749348ffa3",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/24/allure/#testresult/3f2143749348ffa3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199538,
+          "stop" : 1619672217141,
+          "duration" : 17603
+        }
+      }, {
+        "uid" : "2b684b1562045f17",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/17/allure/#testresult/2b684b1562045f17",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199538,
+          "stop" : 1619672217141,
+          "duration" : 17603
+        }
+      }, {
+        "uid" : "2dc128299ecdbab3",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/16/allure/#testresult/2dc128299ecdbab3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199538,
+          "stop" : 1619672217141,
+          "duration" : 17603
+        }
+      }, {
+        "uid" : "9540c4e4943b4aae",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/15/allure/#testresult/9540c4e4943b4aae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199538,
+          "stop" : 1619672217141,
+          "duration" : 17603
+        }
+      }, {
+        "uid" : "93c6fefe3e13e974",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/14/allure/#testresult/93c6fefe3e13e974",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199538,
+          "stop" : 1619672217141,
+          "duration" : 17603
+        }
+      }, {
+        "uid" : "e441f7b594da69a6",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/13/allure/#testresult/e441f7b594da69a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199538,
+          "stop" : 1619672217141,
+          "duration" : 17603
+        }
+      }, {
+        "uid" : "eeaec9ed8fee1f66",
+        "reportUrl" : "http://localhost:8080/job/AmazonAutomation_KrishanMohan/9/allure/#testresult/eeaec9ed8fee1f66",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619672199538,
+          "stop" : 1619672217141,
+          "duration" : 17603
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4e1df2d9763b26e5.json",
+  "parameterValues" : [ ]
+}
